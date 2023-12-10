@@ -1,0 +1,5062 @@
+Angola: 2476
+MPLA: 2176
+regime: 2110
+Eduardo dos Santos: 646
+Eleições: 612
+Portugal: 557
+Corrupção: 467
+Luanda: 449
+crise: 448
+UNITA: 440
+Economia: 391
+Petróleo: 385
+joão lourenço: 326
+ditadura: 322
+Isabel dos Santos: 279
+Sonangol: 277
+activistas: 272
+África: 259
+Governo: 246
+Cabinda: 235
+liberdade: 220
+promessas: 210
+Fome: 206
+dos santos: 201
+EUA: 179
+bajulação: 179
+Casa-CE: 175
+ONU: 167
+povo: 165
+Moçambique: 164
+julgamento: 162
+guerra: 162
+Saúde: 161
+Polícia: 160
+CNE: 160
+Nepotismo: 158
+Democracia: 155
+luta: 154
+OGE: 148
+Presidente: 142
+Justiça: 138
+Direitos Humanos: 138
+fraude: 125
+mortes: 112
+CPLP: 110
+Manuel Vicente: 110
+Brasil: 110
+Militares: 109
+China: 108
+Oposição: 107
+Lusofonia: 106
+Jornalistas: 104
+Crianças: 100
+Europa: 100
+Luaty Beirão: 100
+mentiras: 99
+Frelimo: 98
+pobres: 96
+Huambo: 95
+miséria: 95
+crescimento: 95
+manifestação: 94
+flec: 92
+Renamo: 91
+tribunal: 91
+Parlamento: 89
+Cultura: 88
+produção: 86
+Rafael Marques: 86
+Ministro: 83
+lei: 83
+Livro: 82
+Lisboa: 79
+BNA: 79
+samakuva: 79
+Presos: 79
+Cabo-Verde: 78
+apoio: 78
+FMI: 77
+Independência: 76
+Diamantes: 75
+Dinheiro: 74
+angolanos: 74
+Divisas: 73
+BESA: 73
+prisão: 73
+Guiné-Bissau: 72
+propaganda: 70
+Cooperação: 69
+repressão: 68
+poder: 68
+investimentos: 68
+pgr: 68
+Apoios: 66
+william tonet: 66
+imprensa: 66
+Dólares: 66
+roubo: 66
+vergonha: 66
+negócios: 65
+milhões: 62
+Guiné Equatorial: 62
+FAA: 62
+Jornal de Angola: 62
+mortos: 62
+Folha 8: 61
+Finanças: 60
+constituição: 60
+política: 60
+Agostinho Neto: 59
+jovens: 59
+paz: 59
+bancos: 58
+manipulação: 58
+Censura: 57
+deputados: 57
+Malária: 56
+revolta: 56
+Savimbi: 56
+medo: 56
+estado: 54
+empresas: 54
+visita: 54
+terrorismo: 54
+mundo: 54
+campanha: 54
+ajuda: 53
+debate: 52
+farsa: 52
+morte: 51
+escravos: 51
+prisões: 51
+Segurança: 50
+fundo soberano: 50
+OMS: 49
+prémio: 48
+críticas: 48
+congresso: 47
+Investimento: 47
+BES: 47
+direitos: 47
+Violência: 47
+palhaçada: 47
+electricidade: 46
+febre-amarela: 46
+Ébola: 45
+Benguela: 45
+importação: 45
+doenças: 45
+Agricultura: 44
+Porto: 44
+negociatas: 44
+história: 44
+ameaças: 44
+Luvualu: 44
+Receitas: 43
+FNLA: 43
+TAAG: 42
+Governador: 42
+Literatura: 42
+acusações: 42
+tribunal constitucional: 42
+Kalupeteka: 42
+27 de maio: 41
+golpe: 41
+Marcolino Moço: 41
+Portugueses: 41
+balanço: 40
+Timor Leste: 40
+Amnistia Internacional: 40
+discurso: 40
+Assassinatos: 40
+Obiang: 40
+Queda: 40
+relatório: 39
+PS: 39
+armas: 39
+família: 39
+impunidade: 39
+Educação: 38
+Manifestações: 38
+greve: 38
+advogados: 38
+Pravda: 37
+pobreza: 37
+inflação: 37
+crimes: 37
+isabel: 37
+rei: 37
+África do Sul: 36
+Gestão: 36
+tpa: 36
+mortalidade: 36
+crime: 36
+observadores: 36
+generais: 35
+branqueamento: 35
+exportações: 35
+kangamba: 35
+leis: 35
+Marcos Mavungo: 35
+Defesa: 34
+BPI: 34
+embaixador: 34
+lixo: 34
+ataques: 34
+sic: 34
+Coreia do Norte: 33
+água: 33
+Ataque: 33
+Empresários: 32
+José Ribeiro: 32
+Vacinas: 32
+detidos: 32
+kwanza: 32
+Cleptocracia: 32
+carta: 32
+salários: 32
+protesto: 32
+diversificação: 32
+futuro: 32
+demagogia: 32
+Lucros: 31
+massacres: 31
+condenação: 31
+kopelipa: 31
+exonerações: 31
+preços: 30
+acordo: 30
+Desenvolvimento: 30
+refugiados: 30
+aniversário: 30
+Financiamento: 30
+Futebol: 30
+Cuba: 30
+jornalismo: 30
+impostos: 30
+solidariedade: 30
+sociedade: 30
+marcelo: 30
+resultados: 30
+UNICEF: 29
+Medicamentos: 29
+Banca: 29
+Bornito de Sousa: 29
+psd: 29
+rd congo: 29
+riqueza: 29
+Rússia: 29
+relações: 29
+ditador: 29
+combate: 28
+despesas: 28
+Partido: 28
+sipaio: 28
+PRS: 28
+milionários: 28
+ricos: 28
+Higino Carneiro: 27
+pt: 27
+PIB: 27
+desrespeito: 27
+exploração: 27
+violações: 27
+controlo: 27
+Aqui falo eu: 26
+Seca: 26
+Probidade: 26
+França: 26
+ana gomes: 26
+humanidade: 26
+satélite: 26
+feridos: 26
+Espanha: 26
+Emirates: 26
+incompetência: 26
+falhas: 26
+cobardia: 26
+zango: 26
+mulheres: 25
+Cães: 25
+quebra: 25
+terrenos: 25
+comércio: 25
+transparência: 25
+natal: 25
+OPA: 25
+custos: 25
+ditadores: 25
+Nigéria: 25
+União Europeia: 25
+António Costa: 25
+Herói: 25
+massacre: 25
+joão melo: 25
+general: 25
+hipocrisia: 25
+tretas: 25
+Sucessão: 25
+2017: 24
+PCP: 24
+Forças Armadas: 24
+acusação: 24
+Homenagem: 24
+ignorância: 24
+vítimas: 24
+Opinião: 24
+Queixa: 24
+Estado Islâmico: 24
+Protestos: 24
+trabalhadores: 24
+encontro: 24
+Kabila: 24
+hospitais: 24
+doença: 24
+Nações Unidas: 23
+vacinação: 23
+bissau: 23
+Música: 23
+sipaios: 23
+venda: 23
+juiz: 23
+entrevista: 23
+Igreja Católica: 23
+agualusa: 23
+raul tati: 23
+estrangeiros: 23
+santos silva: 23
+José Eduardo dos Santos: 22
+angosat: 22
+epidemia: 22
+racismo: 22
+Estudantes: 22
+população: 22
+Reconciliação: 22
+pasquim: 22
+partidos: 22
+ética: 22
+fala: 22
+Turismo: 22
+contas: 22
+assembleia: 22
+assistência: 22
+pai: 22
+estratégia: 22
+acordos: 22
+tribunais: 22
+arte: 22
+erca: 22
+gozo: 22
+Energia: 21
+Ensino Superior: 21
+oi: 21
+Militantes: 21
+capitais: 21
+regresso: 21
+programa: 21
+MDM: 20
+BFA: 20
+Exportação: 20
+activista: 20
+projectos: 20
+SONAE: 20
+Autarquias: 20
+Professores: 20
+apelo: 20
+Alimentos: 20
+Médicos: 20
+aumento: 20
+obama: 20
+violação: 20
+RNA: 20
+kwanzas: 20
+doentes: 20
+importações: 20
+país: 20
+desastre: 20
+estrangeiro: 20
+desemprego: 20
+governação: 20
+Monarquia: 20
+mandioca: 20
+português: 20
+trump: 20
+cds: 20
+tachos: 20
+lourenço: 20
+Rui Mangueira: 19
+Congo: 19
+injustiças: 19
+Tortura: 19
+Escritores: 19
+Demissão: 19
+Amnistia: 19
+unitel: 19
+Abel Chivukuvuku: 19
+adiamento: 19
+Bloco Democrático: 19
+igreja: 19
+dívidas: 19
+nunda: 19
+SIDA: 18
+Girabola: 18
+Paris: 18
+EFACEC: 18
+expulsão: 18
+liderança: 18
+Comunicação Social: 18
+políticos: 18
+derrota: 18
+joão pinto: 18
+dívida: 18
+Livros: 18
+barragens: 18
+interesses: 18
+Prémios: 18
+be: 18
+recuperação: 18
+golpe de estado: 18
+libertação: 18
+análise: 18
+mercado: 18
+cobalt: 18
+coligação: 18
+investigação: 18
+vida: 18
+estradas: 18
+resgate: 18
+chivukuvuku: 18
+lagosta: 18
+hospital: 18
+posse: 18
+Banco Mundial: 17
+Comida: 17
+Paulo Morais: 17
+Georges Chikoti: 17
+detido: 17
+culto: 17
+Nelson Mandela: 17
+HRW: 17
+combustíveis: 17
+UE: 17
+nito alves: 17
+subserviência: 17
+Ranking: 17
+dificuldades: 17
+polícias: 17
+queixas: 17
+anedotas: 17
+supremo: 17
+mensagem: 16
+direito: 16
+Vistos: 16
+Suíça: 16
+Xanana Gusmão: 16
+Álvaro sobrinho: 16
+Conselho de Segurança: 16
+Bento Bembe: 16
+falência: 16
+falta: 16
+bens: 16
+rating: 16
+privados: 16
+fapla: 16
+lobito: 16
+Mo Ibrahim: 16
+domínio: 16
+rtp: 16
+dúvidas: 16
+Cunene: 16
+pagamentos: 16
+dignidade: 16
+casas: 16
+registo: 16
+seita: 16
+desvalorização: 16
+dólar: 16
+atrasos: 16
+forbes: 16
+milionária: 16
+nação: 16
+raiva: 16
+saída: 16
+vitória: 16
+concurso: 16
+mentira: 16
+respeito: 16
+rufino: 16
+ja: 16
+matumbos: 16
+ONG: 15
+voos: 15
+Namibe: 15
+sangue: 15
+Rui Machete: 15
+assassinato: 15
+Jonas Savimbi: 15
+Moody's: 15
+recolha: 15
+Odebrecht: 15
+votação: 15
+diálogo: 15
+embaixada: 15
+Minas: 15
+reacção: 15
+jornalista: 15
+Kalupeteca: 15
+fuga: 15
+amigos: 15
+colonialismo: 15
+escravatura: 14
+formação: 14
+General Nunda: 14
+josé sócrates: 14
+filhos: 14
+Isaías Samakuva: 14
+burkina faso: 14
+património: 14
+chineses: 14
+apresentação: 14
+Cubanos: 14
+Huíla: 14
+ensino: 14
+dívida pública: 14
+Kundi Paihama: 14
+Passos Coelho: 14
+londres: 14
+compra: 14
+Mulher: 14
+PALOP: 14
+Síria: 14
+antónio guterres: 14
+Alcides Sakala: 14
+riquezas: 14
+alternativas: 14
+bloco de esquerda: 14
+ditaduras: 14
+previsões: 14
+obras: 14
+igrejas: 14
+Endiama: 14
+treta: 14
+sindicato: 14
+moral: 14
+verdades: 14
+ministra: 14
+atentados: 14
+desmentido: 14
+mandela: 14
+candidatos: 14
+desespero: 14
+clã: 14
+flec-fac: 14
+legalidade: 14
+progresso: 14
+reino: 14
+Marcelo rebelo de sousa: 14
+2014: 13
+uccla: 13
+Artes Plásticas: 13
+desvios: 13
+CEAST: 13
+bispos: 13
+Raúl Danda: 13
+Continente: 13
+Educação Patriótica: 13
+BD: 13
+Reestruturação: 13
+Director: 13
+Escolas: 13
+Paulo Portas: 13
+implosão: 13
+Muangai: 13
+líbia: 13
+2018: 13
+remessas: 13
+Sindika Dokolo: 13
+ministros: 13
+denúncia: 13
+memória: 13
+tuberculose: 13
+demolições: 13
+tribunal supremo: 13
+emprego: 13
+falhanço: 13
+Zungueiras: 12
+Código Penal: 12
+festa: 12
+Bié: 12
+Orçamento: 12
+Exposição: 12
+Marcos Barrica: 12
+Mbanza Congo: 12
+Cavaco Silva: 12
+garimpo: 12
+Reforma: 12
+Debates: 12
+Itália: 12
+Boa governação: 12
+Mia Couto: 12
+Vírus: 12
+anedota: 12
+Universidade: 12
+deputado: 12
+alunos: 12
+Líder: 12
+lavagem: 12
+Francisco Luemba: 12
+Zimbabué: 12
+financiamentos: 12
+Nomeação: 12
+Filda: 12
+joão soares: 12
+criança: 12
+Fitch: 12
+estudo: 12
+provas: 12
+agressões: 12
+árabes: 12
+perigo: 12
+BCP: 12
+câmbio: 12
+2016: 12
+colónia: 12
+prepotência: 12
+pressão: 12
+total: 12
+culpados: 12
+seitas: 12
+ilegais: 12
+conflito: 12
+medidas: 12
+comunicado: 12
+juízes: 12
+cortes: 12
+laúca: 12
+aprovação: 12
+cimeira: 12
+guterres: 12
+sobrevivência: 12
+resistência: 12
+abandono: 12
+iraque: 12
+negócio: 12
+passividade: 12
+desculpas: 12
+fantochada: 12
+estado de direito: 12
+HIV: 12
+emérito: 12
+rendição: 12
+mesmice: 12
+Indústria: 11
+Alemanha: 11
+2015: 11
+TAP: 11
+Fidel Castro: 11
+agressão: 11
+detenção: 11
+papa francisco: 11
+mota-engil: 11
+Televisão: 11
+preço: 11
+Parlamento Europeu: 11
+tratamento: 11
+escândalo: 11
+Namíbia: 11
+alternativa: 11
+crédito: 11
+nobel: 11
+ovos: 11
+zap: 11
+verdade: 11
+províncias: 11
+joão maria de sousa: 11
+roubos: 11
+evolução: 11
+testemunhas: 11
+revús: 11
+escolha: 11
+chuvas: 10
+Aviação: 10
+exemplo: 10
+bandeira: 10
+acnur: 10
+informação: 10
+Construção: 10
+Contratos: 10
+Domingos Simões Pereira: 10
+magistrados: 10
+Desporto: 10
+Bolseiros: 10
+denúncias: 10
+José Maria Neves: 10
+Conferência: 10
+purga: 10
+Costa do Marfim: 10
+Eugénio Costa Almeida: 10
+Unesco: 10
+café: 10
+fao: 10
+saneamento: 10
+ganga: 10
+José Mário Vaz: 10
+Juventude: 10
+destruição: 10
+Luís Fernando: 10
+apologia: 10
+São Tomé: 10
+Teatro: 10
+elogio: 10
+dependência: 10
+reunião: 10
+Legislação: 10
+greve de fome: 10
+universidades: 10
+musseques: 10
+hitler: 10
+Sedrick de Carvalho: 10
+trabalho: 10
+assassinos: 10
+proibição: 10
+repatriamento: 10
+januário: 10
+Vigília: 10
+Francisca van Dunem: 10
+rádio Ecclesia: 10
+candidato: 10
+Putin: 10
+comunicações: 10
+mudança: 10
+obra: 10
+eleitores: 10
+ordens: 10
+pão: 10
+patrão: 10
+elefante branco: 10
+rotas: 10
+neto: 10
+civismo: 10
+espaço: 10
+vigarices: 10
+Tchizé: 10
+mordaça: 10
+língua: 10
+desilusão: 10
+cidadãos: 10
+indra: 10
+mordomias: 10
+malandros: 10
+São Tomé e Príncipe: 9
+Poliomielite: 9
+Armando Manuel: 9
+tráfico: 9
+Fernando Ulrich: 9
+angop: 9
+Presidente da República: 9
+Mário Soares: 9
+técnicos: 9
+inauguração: 9
+construção civil: 9
+Afonso Dhlakama: 9
+Dilma Rousseff: 9
+escritor: 9
+perseguição: 9
+bonga: 9
+Turquia: 9
+Lunda Tchokwe: 9
+Viagens: 9
+escola: 9
+Internacional Socialista: 9
+tvi: 9
+revisão: 9
+Religião: 9
+impugnação: 9
+saque: 9
+Processo: 9
+irregularidades: 9
+gás: 9
+procurador: 9
+movimento: 9
+verbas: 9
+trânsito: 9
+Domingos da Cruz: 9
+doutoramento: 9
+filho: 9
+intimidação: 9
+numa: 9
+rui moreira: 9
+mudanças: 9
+proposta: 9
+ocupação: 9
+fraudes: 9
+simulambuco: 9
+aldrabice: 9
+nuno dala: 9
+supremo tribunal: 9
+mercenário: 9
+liberdades: 9
+Sinfic: 9
+contagem: 9
+BAD: 8
+Saúde Pública: 8
+Clima: 8
+Maputo: 8
+oma: 8
+PAIGC: 8
+juros: 8
+Candidatura: 8
+Armando Guebuza: 8
+Macau: 8
+Cinema: 8
+Alves Kamulingue: 8
+Isaías Cassule: 8
+fc porto: 8
+pinto da costa: 8
+défice: 8
+Hipermercados: 8
+Eleições Moçambique: 8
+Kwanza sul: 8
+Coimbra: 8
+comunicação: 8
+Basquetebol: 8
+Tecnologia: 8
+Moxico: 8
+Recursos: 8
+cotação: 8
+Orlando Castro: 8
+fundação: 8
+rsf: 8
+Enfermeiros: 8
+Luena: 8
+socialismo: 8
+sul: 8
+elogios: 8
+Uíge: 8
+imunidade: 8
+4 de fevereiro: 8
+discussão: 8
+iurd: 8
+40 anos: 8
+consumo: 8
+canadá: 8
+holden roberto: 8
+criminosos: 8
+banco: 8
+obrigações: 8
+Mavungo: 8
+candando: 8
+batalha: 8
+cuito cuanavale: 8
+incumprimento: 8
+troca: 8
+memorando: 8
+reflexão: 8
+Zenú: 8
+animais: 8
+CaixaBank: 8
+aumentos: 8
+material: 8
+advogado: 8
+prejuízos: 8
+mck: 8
+redução: 8
+milho: 8
+Barragem: 8
+sistema: 8
+chefe: 8
+recurso: 8
+embaixadas: 8
+aviões: 8
+estagnação: 8
+truques: 8
+tpi: 8
+eleição: 8
+pagamento: 8
+Emmanuel Nzita: 8
+secretário-geral: 8
+combates: 8
+divino: 8
+interior: 8
+epidemias: 8
+degradação: 8
+novos casos: 8
+archer mangueira: 8
+cobertura: 8
+megalomania: 8
+dirigentes: 8
+protecção: 8
+bajuladores: 8
+privatização: 8
+agosto: 8
+inimigos: 8
+lançamento: 8
+sobreviver: 8
+fantasma: 8
+voto: 8
+frente cívica: 8
+comício: 8
+carlos saturnino: 8
+acólitos: 8
+Patrice Trovoada: 7
+Contrabando: 7
+Índice Ibrahim de Boa Governação Africana: 7
+burla: 7
+petrobras: 7
+Blaise Compaore: 7
+paicv: 7
+Kuando Kubango: 7
+David Mendes: 7
+CONDIS: 7
+Hong Kong: 7
+inquérito: 7
+personalidade: 7
+Rádio: 7
+Dilma: 7
+união africana: 7
+Eleições autárquicas: 7
+carlos cardoso: 7
+Imigrantes: 7
+Teodoro Obiang: 7
+voz da américa: 7
+empresário: 7
+rdcongo: 7
+Empréstimos: 7
+Bento Bento: 7
+Capital: 7
+seguros: 7
+japão: 7
+Pesca: 7
+Malanje: 7
+Pioneiros: 7
+estatuto: 7
+católicos: 7
+comité central: 7
+assassinado: 7
+NATO: 7
+invasão: 7
+gâmbia: 7
+desvio: 7
+absolvição: 7
+sadc: 7
+regime. mpla: 7
+fábrica: 7
+buzinão: 7
+habeas corpus: 7
+vendas: 7
+embargo: 7
+ordem: 7
+chantagem: 7
+sondagem: 7
+infanto-juvenil: 7
+força: 7
+pessoas: 7
+santoro: 7
+Charlie Hebdo: 7
+qualidade: 7
+ua: 7
+mães: 7
+nacionalidade: 7
+terras: 7
+produtos: 7
+esperança: 7
+reivindicações: 7
+carlos pacheco: 7
+victor carvalho: 7
+recenseamento: 7
+carros: 7
+cidadania: 7
+pca: 7
+funcionários: 7
+credibilidade: 7
+arquivamento: 7
+islamismo: 7
+diáspora: 7
+listas: 7
+coreia do sul: 6
+Desalojados: 6
+vulcão: 6
+CAN 2015: 6
+hino: 6
+ilegalidades: 6
+Fisco: 6
+Jogos Olímpicos: 6
+António Ole: 6
+Fotografia: 6
+concorrência: 6
+Joaquim Chissano: 6
+Polícia Nacional: 6
+liberdade de imprensa: 6
+países: 6
+Geraldo Sachipengo Nunda: 6
+editorial: 6
+casimiro congo: 6
+Doação: 6
+incidentes: 6
+Sarampo: 6
+marketing: 6
+imagem: 6
+incêndio: 6
+Rainha: 6
+porrada: 6
+Vinho: 6
+Daviz Simango: 6
+Imobiliário: 6
+Robert Mugabe: 6
+Paihama: 6
+Rap: 6
+gastos: 6
+Capitalismo: 6
+assassinados: 6
+Poesia: 6
+Ramos-Horta: 6
+ex-militares: 6
+guerrilha: 6
+Janeiro: 6
+demissões: 6
+Luxo: 6
+classe média: 6
+vacina: 6
+dezembro: 6
+aborto: 6
+subsistência: 6
+água potável: 6
+site: 6
+cerveja: 6
+fórum: 6
+empréstimo: 6
+cadeias: 6
+moçambicanos: 6
+Paulo de morais: 6
+guerras: 6
+desnutrição: 6
+condenações: 6
+bailundo: 6
+impedimento: 6
+observatório: 6
+radiografia: 6
+diferendo: 6
+Paulo Azevedo: 6
+cervejas: 6
+confusão: 6
+passado: 6
+colonos: 6
+Papa: 6
+pedido: 6
+barcelona: 6
+famílias: 6
+Filomeno dos santos: 6
+governadora: 6
+fortuna: 6
+ANIP: 6
+garantias: 6
+razão: 6
+cacuaco: 6
+cafunfo: 6
+sambizanga: 6
+mãos livres: 6
+igualdade: 6
+ministério público: 6
+alterações: 6
+penas: 6
+Erdogan: 6
+gato: 6
+farelo: 6
+terroristas: 6
+colonial: 6
+atraso: 6
+vídeo: 6
+xenofobia: 6
+palavras: 6
+povos: 6
+oportunismo: 6
+complexo: 6
+sudão: 6
+ferro: 6
+exclusão: 6
+espera: 6
+expresso: 6
+paulo flores: 6
+zuma: 6
+inocência: 6
+20 anos: 6
+notícias: 6
+negociações: 6
+retrocesso: 6
+silêncio: 6
+batota: 6
+subsídios: 6
+morto: 6
+opressão: 6
+alimentação: 6
+abusos: 6
+cereais: 6
+chevron: 6
+neporismo: 6
+pena de morte: 6
+orlando figueira: 6
+vice-presidente: 6
+protectorado: 6
+sofrimento: 6
+gasosa: 6
+nzita tiago: 6
+crítica: 6
+natureza: 6
+transmissão: 6
+De Grisogono: 6
+imposição: 6
+alvor: 6
+traição: 6
+inclusão: 6
+ocultação: 6
+social: 6
+tiros: 6
+sucesso: 6
+megalomanias: 6
+alma: 6
+encerramento: 6
+populares: 6
+vigarice: 6
+identidade: 6
+instituições: 6
+cólera: 6
+transparência e integridade: 6
+ambição: 6
+arroz: 6
+regras: 6
+escolhas: 6
+ruas: 6
+antunes huambo: 6
+pastor: 6
+2012: 6
+votos: 6
+diplomatas: 6
+luxos: 6
+bicefalia: 6
+peritos: 6
+O século: 6
+joão paulo batalha: 6
+38 anos: 6
+pressões: 6
+processos: 6
+paulo catarro: 6
+empresa: 6
+Apreensão: 5
+Droga: 5
+narcotráfico: 5
+Ban Ki-moon: 5
+ADI: 5
+AFRICOM: 5
+Ilha do fogo: 5
+marrocos: 5
+Pintura: 5
+escuras: 5
+cabindas: 5
+angola telecom: 5
+Caça às bruxas: 5
+felicitações: 5
+pam: 5
+contestação: 5
+presos políticos: 5
+CIA: 5
+falecimento: 5
+Luísa Rogério: 5
+flec/fac: 5
+Frango: 5
+Pluvera: 5
+Bento Kangamba: 5
+guarda presidencial: 5
+Lubango: 5
+UAN: 5
+Terra Peregrin: 5
+JMPLA: 5
+Luís sambo: 5
+Parcerias: 5
+expositores: 5
+zedu: 5
+mandato: 5
+MpD: 5
+inundações: 5
+golpes: 5
+João da Câmara: 5
+milionário: 5
+boletim oficial: 5
+Cruz Vermelha: 5
+América Latina: 5
+mortalidade infantil: 5
+despedimentos: 5
+Vaticano: 5
+Desminagem: 5
+atentado: 5
+brancos: 5
+aeroporto: 5
+ocidente: 5
+convidados: 5
+abastecimento: 5
+prisioneiros: 5
+primavera: 5
+exclusivo: 5
+revolução: 5
+conselho da república: 5
+arquitectura: 5
+ajpd: 5
+valores: 5
+burundi: 5
+panelaço: 5
+Bispo: 5
+preso: 5
+agradecimento: 5
+infantil: 5
+António Fortunato: 5
+compras: 5
+HSBC: 5
+genocídio: 5
+reservas: 5
+soluções: 5
+governadores: 5
+aicep: 5
+procura: 5
+câmbios: 5
+filomeno vieira dias: 5
+costa: 5
+vigílias: 5
+comemoração: 5
+eurodeputados: 5
+posição: 5
+negros: 5
+êxito: 5
+carência: 5
+milhares: 5
+guebuza: 5
+passageiros: 5
+rectificação: 5
+kupapatas: 5
+administração: 5
+descoberta: 5
+The Economist: 5
+rapidez: 5
+Luvualu de carvalho: 5
+mugabe: 5
+gungunhana: 5
+muxima: 5
+fronteira: 5
+focas: 5
+preparação: 5
+nacional: 5
+familiares: 5
+luaty: 5
+sabujice: 5
+cazenga: 5
+russos: 5
+fé: 5
+semelhanças: 5
+actualização: 5
+inocentes: 5
+estatísticas: 5
+deus: 5
+ouro: 5
+reino unidos: 5
+moradores: 5
+drama: 5
+telemóveis: 5
+redes sociais: 5
+tempo: 5
+ambiente: 5
+ficção: 5
+herdeira: 5
+princesa: 5
+ordenados: 5
+diamante: 5
+Human Rights Watch: 5
+sindika: 5
+aviso: 5
+rua: 5
+martins da cruz: 5
+roubalheira: 5
+nomeações: 5
+Quénia: 5
+cna: 5
+Petro de Luanda: 4
+ADRA: 4
+Agricultura familiar: 4
+Combustível: 4
+Custo de vida: 4
+Guiné: 4
+Raul Araújo: 4
+Plataformas Logísticas: 4
+símbolos: 4
+Kundy Paihama: 4
+Propriedade Intelectual: 4
+smakuva: 4
+Bruno de Carvalho: 4
+Comarcas: 4
+Cipriano Cassamá: 4
+Falsificação: 4
+ugp: 4
+carlos alexandre: 4
+1º de Agosto: 4
+Taça de Angola: 4
+Tiro: 4
+Grandes Lagos: 4
+Combate à pobreza: 4
+ginástica: 4
+ricardo salgado: 4
+países pobres: 4
+Organização Mundial de Saúde: 4
+desigualdades: 4
+jamba: 4
+Tito Paris: 4
+património mundial: 4
+Seleccionador: 4
+Escultura: 4
+circo: 4
+dipanda: 4
+línguas nacionais: 4
+Apolónio Graciano: 4
+Kim Jong-un: 4
+transparência internacional: 4
+subornos: 4
+Patriotismo: 4
+Missão: 4
+RCA: 4
+República Centro Africana: 4
+pró-democracia: 4
+Benfica: 4
+Liga portuguesa de Clubes: 4
+desarmamento: 4
+Dhlakama: 4
+Eleições Brasil: 4
+Marina: 4
+Marina Silva: 4
+erros: 4
+Poetas: 4
+FAF: 4
+estadista: 4
+salvação: 4
+Irina Bokova: 4
+associação: 4
+Alerta: 4
+Bilhete de identidade: 4
+Miguel Macedo: 4
+circulação: 4
+jacarés: 4
+Bélgica: 4
+Salmonela: 4
+FAP: 4
+Hóquei em patins: 4
+Censo: 4
+FESA: 4
+Insegurança: 4
+Jacob Zuma: 4
+jorge sampaio: 4
+laurinda gouveia: 4
+Sentença: 4
+leitura: 4
+Transportes: 4
+Fernando vumby: 4
+mausoléu: 4
+mercenários: 4
+catarina martins: 4
+pátria: 4
+andulo: 4
+bunker: 4
+internacional: 4
+assembleia nacional: 4
+notas: 4
+Raúl Castro: 4
+histórico: 4
+Adão do Nascimento: 4
+luz: 4
+autonomia: 4
+artur queiroz: 4
+selva: 4
+Domingos Kambunji: 4
+Cesária Évora: 4
+mpla.ditadura: 4
+sanzaleiro: 4
+Reitor: 4
+Malala Youzafsai: 4
+OPEP: 4
+Sociedade civil: 4
+academia: 4
+Viaturas: 4
+ministro da defesa: 4
+Dalila Cabrita Mateus: 4
+libolo: 4
+Prémio Nobel: 4
+protocolo: 4
+Romance: 4
+Medicina tradicional: 4
+cura: 4
+Rosa Pacavira: 4
+burlas: 4
+Augusto da Silva Tomás: 4
+Ministro dos Transportes: 4
+testes: 4
+Jihadistas: 4
+Reino Unido: 4
+Miau: 4
+genebra: 4
+Fundação Mo Ibrahim: 4
+Abdul Carimo: 4
+Kinshasa: 4
+cargos: 4
+rebelião: 4
+maternidade: 4
+riscos: 4
+álcool: 4
+tunísia: 4
+rir: 4
+promessa: 4
+Dino Matross: 4
+petição: 4
+Zulinni Bumba: 4
+Goldman Sachs: 4
+alves da rocha: 4
+jovens detidos: 4
+multas: 4
+global: 4
+imposto: 4
+bebidas: 4
+pedro pires: 4
+índice Ibrahim: 4
+negociação: 4
+medalha: 4
+kosovo: 4
+berlim: 4
+sul-africanos: 4
+aparências: 4
+consumidores: 4
+colapso: 4
+filme: 4
+maio: 4
+díli: 4
+inovação: 4
+fiasco: 4
+nutrição: 4
+Ekuikui: 4
+partido único: 4
+bajular: 4
+índice: 4
+venezuela: 4
+spe: 4
+ambrósio de lemos: 4
+euro: 4
+Eduardos dos santos: 4
+heróis: 4
+embaixadores: 4
+repetição: 4
+apostas: 4
+caos: 4
+dono: 4
+ameaça: 4
+erradicação: 4
+Alto Kauango: 4
+aldrabices: 4
+domiciliária: 4
+Marinho e Pinto: 4
+desafios: 4
+registo eleitoral: 4
+progressos: 4
+retaliação: 4
+público: 4
+quadros: 4
+roberto de almeida: 4
+ilegalização: 4
+problemas: 4
+habitação: 4
+noruega: 4
+projecto: 4
+farmácias: 4
+reconhecimento: 4
+contrato: 4
+1961: 4
+civilização: 4
+financeiro: 4
+Ondjaki: 4
+colonização: 4
+umbigo: 4
+prioridades: 4
+Index on Censorship: 4
+lucro: 4
+avião: 4
+fim: 4
+uea: 4
+apiex: 4
+princípios: 4
+linha de crédito: 4
+detenções: 4
+corte: 4
+trabalho infantil: 4
+transferência: 4
+acidentes: 4
+apn: 4
+vandalismo: 4
+inea: 4
+ende: 4
+derrotas: 4
+dia: 4
+carestia: 4
+suécia: 4
+José Vilema: 4
+orgulho: 4
+boçalidade: 4
+delírios: 4
+nino vieira: 4
+sul-sfricanos: 4
+trigo: 4
+ridículo: 4
+panama papers: 4
+desculpa: 4
+centenas: 4
+morgue: 4
+regima: 4
+ladrões: 4
+pior: 4
+internet: 4
+Wall Street: 4
+corimba: 4
+fraccionismo: 4
+portugal em linha: 4
+proliferação: 4
+perspectivas: 4
+assassinada: 4
+general Wala: 4
+assessores: 4
+arcebispo: 4
+colocação: 4
+amgola: 4
+tomás lima coelho: 4
+receio: 4
+euros: 4
+domónio: 4
+submissão: 4
+cancro: 4
+candonga: 4
+carneiros: 4
+bajulador: 4
+wala: 4
+dia mundial: 4
+metiras: 4
+Carlos Guerra Júnior: 4
+injustiça: 4
+sede: 4
+aposta: 4
+bruxelas: 4
+rurais: 4
+Carvalho: 4
+reformas: 4
+administrador: 4
+friends of angola: 4
+ben ben: 4
+custo: 4
+guerra civil: 4
+regime. ditadura: 4
+região: 4
+serviços: 4
+bajulaçãp: 4
+can: 4
+caluquembe: 4
+segregação: 4
+monopólio: 4
+feudo: 4
+higiene: 4
+situação: 4
+idoneidade: 4
+globalização: 4
+máquina: 4
+médios: 4
+paludismo: 4
+substituição: 4
+Tchizé dos santos: 4
+Alberto Oliveira Pinto: 4
+farra: 4
+pressa: 4
+mpla. tribunal: 4
+formatação: 4
+julgamentos: 4
+kalupetaka: 4
+pacificação: 4
+repto: 4
+patónio: 4
+esbanjamento: 4
+usurpação: 4
+bengo: 4
+mediação: 4
+alternância: 4
+mat: 4
+delegados: 4
+lukamba gato: 4
+adn: 4
+direitos gumanos: 4
+avisos: 4
+simpatizantes: 4
+opositores: 4
+presente: 4
+washington: 4
+estertor: 4
+êxitos: 4
+dia internacional: 4
+prazer: 4
+acção: 4
+mar: 4
+asneiras: 4
+mensagens: 4
+recessao: 4
+farinha: 4
+delinquente: 4
+pulhice: 4
+deportação: 4
+minérios: 4
+extinção: 4
+unita. samakuva: 4
+Peter Hill: 4
+criança assassinada: 4
+déspota: 4
+Israel: 4
+casa: 4
+remodelação: 4
+regalias: 4
+república: 4
+bicesse: 4
+metas: 4
+pediatria: 4
+sequestradores: 4
+eduardo dos samtos: 4
+caricaturas: 4
+oms. saúde: 4
+Margaret Thatcher: 4
+padarias: 4
+milícias: 4
+deserções: 4
+funeral: 4
+Togo: 4
+constitucional: 4
+tonet: 4
+inaugurações: 4
+eméritos: 4
+ex-presidentes: 4
+zika: 4
+Schillings: 4
+ortografia: 4
+dísticos: 4
+42 anos: 4
+azeredo lopes: 4
+erc: 4
+celeiro: 4
+belmiro de azevedo: 4
+ilusão: 4
+seixas da costa: 4
+danilo: 4
+kangambas: 4
+donos: 4
+indignação: 4
+comícios: 4
+teorias: 4
+seriedade: 4
+congoleses: 4
+chipala: 4
+ausência: 4
+comissário: 4
+mesmices: 4
+partos: 4
+desmobilizados: 4
+aparato: 4
+sorteio: 4
+abuso: 4
+manico: 4
+campo: 4
+telecomunicações: 4
+descentralização: 4
+barrica: 4
+Ambrósio Lukoki: 4
+irene neto: 4
+kamalata numa: 4
+manifesto: 4
+unita. casa-ce: 4
+angolano: 4
+dstv: 4
+línguas: 4
+maiombe: 4
+norberto garcia: 4
+malandro: 4
+serviços prisionais: 4
+carenciados: 4
+Freedom House: 4
+reféns: 4
+ladroagem: 4
+sinangol: 4
+Muçulmanos: 4
+islão: 4
+egti: 4
+inferno: 4
+etiópia: 4
+joão de melo: 4
+deputada: 4
+único: 4
+agt: 4
+marginal: 4
+reacções: 4
+governos: 4
+reclamação: 4
+sarjeta: 4
+amor: 4
+rumores: 4
+demagogo: 4
+carneiro: 4
+ambrósio: 4
+mérito: 4
+operação fizz: 4
+Mossoró: 4
+abstenção: 4
+banha da cobra: 4
+tabaco: 4
+entrevistas: 4
+mais do mesmo: 4
+diana: 4
+semba: 4
+petroleiros: 3
+Companhia de bandeira: 3
+Orfãos: 3
+ocde: 3
+Acordo ortográfico: 3
+Diamantes de Sangue: 3
+Ásia: 3
+Administração municipal: 3
+Luís amado: 3
+Pré-fabricados: 3
+Américo Amorim: 3
+Fernando Teles: 3
+Amílcar Cabral: 3
+IIGA: 3
+asilo: 3
+vistos gold: 3
+freira: 3
+fiscal: 3
+DVD: 3
+Saúde Infantil: 3
+Viana: 3
+durão barroso: 3
+ESCOM: 3
+Boavida Neto: 3
+Doenças tropicais: 3
+água imprópria: 3
+Adriano Moreira: 3
+Paços de Ferreira: 3
+condecoração: 3
+Documentário: 3
+Chá de Caxinde: 3
+ana paula dos santos: 3
+Comando: 3
+Media angolana: 3
+bento XVI: 3
+Vladimir Putin: 3
+Armamento: 3
+Nuclear: 3
+Acesso à Saúde: 3
+curiosidades: 3
+portal: 3
+personalidade do ano: 3
+DW: 3
+Gastos públicos: 3
+Aécio Neves: 3
+reeleição: 3
+Serra Leoa: 3
+Desmond Tutu: 3
+industrialização: 3
+Brigadeiro: 3
+Economist Intelligence Unit: 3
+Eleições legislativas: 3
+fiscalidade: 3
+Tecnoforma: 3
+religiões: 3
+estabilidade: 3
+Biocom: 3
+embarcações: 3
+estaleiros: 3
+al-qaeda: 3
+cerimónias: 3
+escritora: 3
+Francisco Louçã: 3
+marisco: 3
+audiência: 3
+Humans Rights Watch: 3
+seminário: 3
+exterior: 3
+casinos: 3
+jogos: 3
+regulamentação: 3
+juristas: 3
+Maka Angola: 3
+kilamba: 3
+LAM: 3
+angola fala só: 3
+Sudão do Sul: 3
+colóquio: 3
+Projekta: 3
+festival: 3
+marcha: 3
+Médicos sem Fronteiras: 3
+Miguel Trovoada: 3
+Primeiro-Ministro português: 3
+Mindelact: 3
+moeda: 3
+zâmbia: 3
+sem-abrigo: 3
+CD: 3
+fil: 3
+autárquicas: 3
+lei eleitoral: 3
+reigime: 3
+petrólep: 3
+pp: 3
+Vistos Falsos: 3
+rebeldes: 3
+querido líder: 3
+rescova: 3
+pacavira: 3
+Propecção: 3
+banco económico: 3
+Campanha eleitoral: 3
+dubai: 3
+Vitorino Nhani: 3
+vítima: 3
+histórias: 3
+vinhos: 3
+chacina: 3
+Arão Tempo: 3
+assassino: 3
+perdão: 3
+transferido: 3
+regabofe: 3
+cadeia: 3
+galo negro: 3
+África Austral: 3
+mapla: 3
+fundos: 3
+expressão: 3
+acções: 3
+milhões de dólares: 3
+cimento: 3
+cartazes: 3
+ministras: 3
+omc: 3
+comemorações: 3
+miala: 3
+notícias lusófonas: 3
+acidente: 3
+força aérea: 3
+Deloitte: 3
+tesouro: 3
+pirão: 3
+festas: 3
+austeridade: 3
+tinta da china: 3
+conluio: 3
+emigração: 3
+missionário: 3
+somague: 3
+restrições: 3
+cfb: 3
+luau: 3
+fernando heitor: 3
+Libéria: 3
+investidores: 3
+frasquilho: 3
+escassez: 3
+psd-cds: 3
+cuidados: 3
+marinha: 3
+prisão domiciliária: 3
+moção: 3
+tese: 3
+manifestantes: 3
+Filipe Nyusi: 3
+salários em atraso: 3
+recomendações: 3
+revista: 3
+estadistas: 3
+visitas: 3
+militar: 3
+fusão: 3
+legado: 3
+interpol: 3
+sobrinho: 3
+rádio despertar: 3
+Open Society: 3
+reabilitação: 3
+cidade: 3
+joãozinho: 3
+invenção: 3
+Standard & Poor's: 3
+concerto: 3
+aulas: 3
+Nova Iorque: 3
+santuário: 3
+perguntas: 3
+fundo: 3
+captura: 3
+leitores: 3
+ano: 3
+escândalos: 3
+Ângelo Veiga Tavares: 3
+nova lisboa: 3
+luaty berião: 3
+mercadoria: 3
+função pública: 3
+são domingos: 3
+agentes: 3
+emigrantes: 3
+disa: 3
+gasolina: 3
+refinaria: 3
+novembro: 3
+rui araújo: 3
+colégio: 3
+eleições presidenciais: 3
+jornadas parlamentares: 3
+bic: 3
+curso: 3
+sono: 3
+repúdio: 3
+cnj: 3
+Gene Sharp: 3
+espectáculo: 3
+peregrinação: 3
+balança: 3
+consumismo: 3
+tv zimbo: 3
+ruanda: 3
+60 anos: 3
+41 anos: 3
+magno: 3
+mira amaral: 3
+milagre: 3
+nudez: 3
+arrogância: 3
+bifes: 3
+explicações: 3
+assaltos: 3
+criminalidade: 3
+tarifas: 3
+joão: 3
+engenheira: 3
+preocupações: 3
+socialistas: 3
+trono: 3
+adiamentos: 3
+ecclesia: 3
+fiéis: 3
+regimes: 3
+roménia: 3
+404 quilates: 3
+lucapa: 3
+recorde: 3
+ideias: 3
+pública: 3
+internamento: 3
+urgência: 3
+vazio: 3
+fogo: 3
+sapos: 3
+ine: 3
+vale tudo: 3
+confiança: 3
+soberania: 3
+tratado: 3
+isabe dos santos: 3
+galp: 3
+capacidade: 3
+civis: 3
+banco de portugal: 3
+ko: 3
+peixe: 3
+menezes cassoma: 3
+eternidade: 3
+recusa: 3
+lúcio lara: 3
+pide: 3
+nandó: 3
+transição: 3
+cópias: 3
+viúva: 3
+aberração: 3
+ribeiro: 3
+marfim: 3
+15+2: 3
+parabéns: 3
+petrolíferas: 3
+resposta: 3
+reclusos: 3
+guardas: 3
+majestade: 3
+movicel: 3
+integridade: 3
+auditoria: 3
+mpla eleições: 3
+gado: 3
+férias: 3
+documentos: 3
+baderna: 2
+Doença do sono: 2
+Adeptos: 2
+Alexandre Grasseli: 2
+Comércio informal: 2
+Aterro: 2
+Aterro Sanitário: 2
+Emanuel Garrudo: 2
+Emília Pires: 2
+ministra das finanças: 2
+Acção Democrática Independente: 2
+Camponeses: 2
+Desenvolvimento Rural: 2
+Maria Lassaleti: 2
+manuel da silva: 2
+Afonso Dhlakama. Filipe Nyusi: 2
+David Rodriguez: 2
+CACL: 2
+Comissão Administrativa da Cidade de Luanda: 2
+José Tavares Ferreira: 2
+Agro-indústria: 2
+Congresso das Tecnologias e Serviços para o Agronegócio: 2
+Kiala Gabriel: 2
+Sementes: 2
+Kiala Ngone Gabriel: 2
+alfândegas: 2
+Banco BIC: 2
+CIDAC: 2
+Centro de Intervenção para o Desenvolvimento Amílcar Cabral: 2
+Os Movimentos de Libertação e o 25 de Abril: 2
+Anadia: 2
+Baja TT Rotas do Douro: 2
+Desporto Automóvel: 2
+Palanca Motorsport: 2
+Todo-o-terreno: 2
+eugénio costa almeira: 2
+pululu: 2
+RDC: 2
+seres humanos: 2
+Opus Dei. Portugal: 2
+privatizações: 2
+fafa: 2
+Logística: 2
+rendimento: 2
+Angola Open: 2
+Barra do Kwanza: 2
+Golf: 2
+Gonçalves Muandumba: 2
+Mangais: 2
+PGA: 2
+Profissional Golf Association: 2
+Apolinário Correia: 2
+Francis Gurry: 2
+Marcas: 2
+OMPI: 2
+Patentes: 2
+dakar: 2
+rali: 2
+Conselho de Segurança da ONU: 2
+Academia Sporting: 2
+Francisco Viana: 2
+Presidente do clube de Alvalade: 2
+presidente da Parkgest e do Fundo Viana: 2
+Antibióticos: 2
+Charles Bailey: 2
+Journal of the Medical American Association: 2
+Obesidade: 2
+Arte lusófona: 2
+Maísa Champalimaud: 2
+SRS Advogados: 2
+Palestra: 2
+Paulo Afonso: 2
+Acessores: 2
+António Manuel Gamboa Vieira Lopes: 2
+Cilada: 2
+Promoção: 2
+bandalhos: 2
+josé sócratas: 2
+Atanagildo Paulo: 2
+Prazer Veneno: 2
+Proença de carvalho: 2
+enteados: 2
+Atlas Copco: 2
+Atlas Copco Angola: 2
+Novas instalações: 2
+Voo: 2
+Contos: 2
+União dos Escritores Angolanos: 2
+Banco Nacional de Angola: 2
+Caju: 2
+Castanha de caju: 2
+Aniceto Bila: 2
+Call Center: 2
+Língua portuguesa: 2
+ISCSP: 2
+Instituto Superior de Ciências Sociais e Políticas: 2
+José Marcos Barrica: 2
+Universidade de Lisboa: 2
+EMEA Finance: 2
+Melhor Banco em Angola: 2
+bill gates: 2
+Bill & Melinda Gates Foundation: 2
+Boletins de voto: 2
+Manica: 2
+bolsa de valores: 2
+Bolsa olímpica: 2
+Fátima Faia: 2
+Judo: 2
+Celso Malavoloneke: 2
+omungua: 2
+Lândana: 2
+Plataforma continental: 2
+Francisco Kandjamba: 2
+Sampaio Mucanda: 2
+Valentino Eduardo Calenga: 2
+Cachupa: 2
+Funje: 2
+Konde: 2
+Rey Weba: 2
+Walter Ananás: 2
+AI: 2
+membro: 2
+centro cultural português: 2
+curtas metragens: 2
+unescp: 2
+Rio de Janeiro: 2
+canoagem: 2
+capoeira: 2
+Gana: 2
+Carlos Feijó: 2
+cada de imprensa: 2
+suspeita: 2
+5 de Outubro: 2
+Dia da República: 2
+delinquência juvenil: 2
+cidade mais cara.Luanda: 2
+Cinema móvel: 2
+Instituto Angolano de Cinema Audiovisual e Multimédia: 2
+Pedro Ramalhoso: 2
+Código Civil: 2
+Regime Colonial: 2
+Associação angolana "Mãos Livres": 2
+Comissário-chefe: 2
+Salvador José Rodrigues: 2
+cachiungo: 2
+carlos veloso: 2
+Ciclo: 2
+Pedro Camelo: 2
+Instituto Camões: 2
+CGE: 2
+Conselho de Ministros: 2
+Conta Geral do Estado: 2
+Giogio Di Pietrogiacomo: 2
+Mísseis: 2
+Arte contemporânea: 2
+Cores e Formas de Angola: 2
+ENSA- Seguros de Angola: 2
+Fineza Teta: 2
+Francisco Van-Dúnem: 2
+Jorge Gumbe: 2
+Marco Kabenda: 2
+Faustino Aires dos Reis: 2
+desenvolvidos: 2
+Banco Africano do Desenvolvimento: 2
+Cristina Duarte: 2
+Associação da Comunidade dos Cubanos Residentes em Angola: 2
+Gisela Beatriz Garcia Rivera: 2
+Direitos de autor: 2
+accionistas: 2
+assembleia-geral: 2
+11 de novembro: 2
+time: 2
+défice público: 2
+Desconcentração: 2
+Deutsche Welle: 2
+Dia Internacional do idoso: 2
+Velhos: 2
+Processo Kimberley: 2
+Catoca: 2
+Produção diamantífera: 2
+Aécio: 2
+Sílvio Franco Burity: 2
+Ballantine's: 2
+DJ: 2
+DJ Paulo Alves: 2
+Música electrónica: 2
+Sê tu Mesmo. Deixa a tua Marca: 2
+Artistas Plásticos: 2
+Encontro literário: 2
+Dolly Menga: 2
+Romeu Filemon: 2
+Selecção Nacional de Futebol: 2
+rapto: 2
+O Último Voo do Flamingo: 2
+Cadáveres: 2
+Guiné-Conacri: 2
+África Subsaariana: 2
+cataunha: 2
+lobo antunes: 2
+gabão: 2
+ódio: 2
+Homicídio: 2
+renome: 2
+Sucessor: 2
+Filipe Nyusi. Eduardo dos Santos: 2
+Egídio Sousa Santos: 2
+Edward Snowden: 2
+Nobel Alternativo 2014: 2
+Prémio de direitos humanos: 2
+Right Livelihood: 2
+família dos santos: 2
+Virgílio de Fontes Pereira: 2
+eleições autárquicas. angola: 2
+Eleição Regional: 2
+Dia Mundial do Professor: 2
+repórteres sem fronteitas: 2
+Nersan: 2
+santarém: 2
+desinvestimento: 2
+Graça Machel: 2
+escom. besa: 2
+António Panguila: 2
+General Baltazar Diogo: 2
+Cursos: 2
+SME: 2
+Serviço de Migração e Estrangeiros: 2
+Projectos sociais: 2
+Fundo de Democracia e Direitos Humanos: 2
+Programa de Auto Ajuda: 2
+rei-presidente: 2
+Quirima: 2
+malange: 2
+pontes: 2
+acordo de alvor: 2
+SINSE: 2
+famílias expulsas: 2
+salinas: 2
+Belas Shopping: 2
+Feira do Livro: 2
+FPF: 2
+Fernando Santos: 2
+Final da Taça: 2
+Taça da Liga: 2
+Lobitino Almeida N'gola: 2
+poema: 2
+Ruben Sicato: 2
+ISV: 2
+Instituto dos Serviços de Veterinária: 2
+Espaço Chá de Caxinde: 2
+Gabriel Tchiema: 2
+diamantes de sengue: 2
+esquemas: 2
+Campeonato do Mundo de rítmica colectiva: 2
+FAG: 2
+Federação Angolana de Ginástica: 2
+Ginastica rítmica: 2
+Istambul: 2
+Semba Miguel: 2
+redução de apoios: 2
+Tete: 2
+Augusto da Silva Cunha: 2
+Gugu: 2
+SLB: 2
+Grecima: 2
+Kero: 2
+Basquetebol Feminino: 2
+Campeonato do Mundo de Basquetebol Feminino 2014: 2
+Patrícia Costa: 2
+chile: 2
+Inspector nacional da Saúde: 2
+Miguel Oliveira: 2
+amotinados: 2
+cadeia de luanda: 2
+Pedro Nambongue Chissanga: 2
+Innovation Makers: 2
+Iracelma Major: 2
+Portugal telecom: 2
+zopt: 2
+Tomás Bica: 2
+Ordem Samora Moisés Machel: 2
+confederação: 2
+jovens empresários: 2
+Jovesns: 2
+Carmelita pires: 2
+Carlos Manuel: 2
+Juventude Patriótica Lunda Tchokwe: 2
+Rocha Lunga Umue: 2
+Rafel marques: 2
+Agro-pecuária: 2
+Henrique André Júnior: 2
+Kuanza Norte: 2
+Pecuária: 2
+jornais: 2
+Antigo Presidente egípcio: 2
+Egipto: 2
+Hosni Mubarak: 2
+Moubarak: 2
+M'bangula Katúmua: 2
+leste: 2
+vias rápidas: 2
+Augusto Tomás: 2
+Plano Director de Transportes e Logística da província de Luanda: 2
+Clandestinos no Paraíso: 2
+Três Anos de Vida: 2
+agência lusa: 2
+atlântico: 2
+CIC: 2
+tijolos: 2
+incêndios: 2
+MSF: 2
+Processo de Paz: 2
+trinta anos: 2
+autoderminação: 2
+comissão parlamentar: 2
+Companhia Nacional de Computadores e Sistemas de Informação: 2
+Informática: 2
+Ministério da Educação: 2
+“Meu Kamba”: 2
+Aquisição: 2
+Ciência: 2
+Ministra da Ciência: 2
+AEPF: 2
+Associação Empresarial de Paços de Ferreira: 2
+Conselho Empresarial do Tâmega e Sousa (CETS): 2
+SplendBorn: 2
+EIU: 2
+rainha Njinga: 2
+Naufrágios: 2
+OIM: 2
+Organização Internacional para as Migrações: 2
+Afonso Van-Dúnem "Mbinda": 2
+Lojas: 2
+Jindungo no Olho do Outro: 2
+Mpambukidi Nlunfidi: 2
+UNAP: 2
+União Nacional dos Artistas Plásticos: 2
+Grace Mugabe: 2
+AFL: 2
+Alliance Française: 2
+Ciclo de cinema: 2
+Mulheres Rebeldes: 2
+FestiSumbe: 2
+Carlos Lamartine: 2
+Campeonato Nacional de Futebol para portadores de deficiência: 2
+Portadores de deficiência: 2
+José ribeio: 2
+quadrilheiros: 2
+Assad: 2
+Bashar al-Assad: 2
+imprensa portuguesa: 2
+nástio mosquito: 2
+calçada: 2
+direitos humanos. OMUNGA: 2
+taça de áfrica: 2
+Nga: 2
+Fardamento: 2
+Endemia: 2
+Janira Hopffer Almada: 2
+Novo Banco: 2
+edp: 2
+sérgio figueiredo: 2
+Carreira docente: 2
+Novo Estatuto da carreira docente: 2
+sequestros: 2
+oásis: 2
+Quadros nacionais: 2
+Protectorado Lunda Tchokwe: 2
+Eusébio de Brito Teixeira: 2
+oje: 2
+MNE: 2
+Movimento Nacional Espontâneo: 2
+conto: 2
+Filipe Olímpio Candala: 2
+Paulo de Carvalho: 2
+joana bernardo: 2
+Burocracia: 2
+Poder autárquico: 2
+Socialismo Sanzaleiro: 2
+voz do dono: 2
+Paixão Júnior: 2
+Progresso do Sambizanga: 2
+casamança: 2
+Bureau político do MPLA: 2
+Celebração: 2
+Dia do Fundador da Nação e do Herói Nacional: 2
+Colégio Cesária Évora: 2
+Internacionalização: 2
+Ministro das Relações Exteriores: 2
+virgílio fontes pereira: 2
+Kundi Pahiama: 2
+Peregrin: 2
+Rio Kuvango: 2
+Torneio internacional de pesca de tigre e tiro aos pratos: 2
+Benfica de Luanda: 2
+Taça de Angola de futebol: 2
+buscas: 2
+piloto: 2
+sá silva: 2
+Organização de Pioneiro de Agostinho Neto: 2
+podemos: 2
+psoe: 2
+Poderes presidenciais: 2
+Chico Pobre: 2
+II Festival Nacional de Poesia: 2
+Austrália: 2
+Kailash Satyarthi.nobel da paz: 2
+carreira: 2
+European Tour: 2
+Golfe: 2
+pratos preferidos: 2
+século xx: 2
+Metropolitano: 2
+Festival Internacional de Teatro do Mindelo: 2
+Jorge Carlos Fonseca: 2
+José Carlos Fonseca: 2
+campeões mundiais: 2
+pesca desportiva: 2
+sporting clube de portugal: 2
+Matchedje: 2
+aniversário da morte: 2
+Angol: 2
+Hidroeléctrica do Gove: 2
+SRS: 2
+carbono: 2
+prontidão: 2
+Consultora Imobiliária: 2
+Euromoney: 2
+Proprime: 2
+Prémio Real Estate Awards: 2
+perfil: 2
+álvaro mateus: 2
+qatar: 2
+integração: 2
+Orçamento Geral do Estado: 2
+Produção petrolífera: 2
+Federação Angolana de Patinagem: 2
+Pedro Azevedo "Chipita": 2
+Anders Fogh Rasmussen: 2
+Radicalismo Islâmico: 2
+Domingos Caieiei: 2
+Grupo teatral Arte Kissonde: 2
+Kissonde: 2
+Lweji o nascimento de um novo império: 2
+Rainha Lweji A'Konde: 2
+oferta de compra: 2
+rastilho: 2
+Aliança evangélica de Angola: 2
+António Neves Mussaqui: 2
+PERT: 2
+Projecto Executivo de Reforma Tributária: 2
+Receita Fiscal: 2
+Valentina Filipe: 2
+Golpe Militar: 2
+campeão: 2
+reeducação: 2
+Nobel da Paz 2014: 2
+“arquitecto da paz”: 2
+Aumento de preços: 2
+autómatos: 2
+Security Council Report: 2
+António Muchanga: 2
+jm+la: 2
+José Saramago: 2
+revolucionário: 2
+Energia nuclear: 2
+Reactores: 2
+Ucrânia: 2
+tropas: 2
+Carlos Pinto de Sousa: 2
+Lacticínios: 2
+Sector lácteo: 2
+estágio: 2
+femininos: 2
+júniores: 2
+grace: 2
+moscas: 2
+tigres: 2
+africano: 2
+branco: 2
+negro: 2
+Paulo feijó: 2
+Banco Sol: 2
+nacionalização: 2
+Clínica Girassol: 2
+Argentina: 2
+Banda desenhada: 2
+Joaquin Lavado: 2
+Mafalda: 2
+Quino: 2
+Fernandes Manuel: 2
+Stress Laboral - Estudo Diagnóstico e Estratégia de Redução: 2
+Compal: 2
+Sumol: 2
+Natalidade: 2
+Estaline: 2
+KGB: 2
+Taxa de juros: 2
+Teixeira Duarte: 2
+Dia Internacional para a Erradicação da Pobreza: 2
+Erradicação da pobreza: 2
+Helpo: 2
+ONDG: 2
+Bombardeamento: 2
+Together: 2
+Yas Camambala: 2
+200 melhores universidades do mundo: 2
+Times Higher Education: 2
+World Universities Rankings: 2
+bicicletas: 2
+João Sérgio Raúl: 2
+Lixeira: 2
+Resurb: 2
+parceria: 2
+Liberty Chiyaka: 2
+arcebispo do huambo: 2
+homilia: 2
+Cancro do colo do útero: 2
+José Van-Dúnem: 2
+Ministro da Saúde: 2
+cruzeiros: 2
+Abreu Mpecamena: 2
+Infertilidade: 2
+Maternidade Lucrécia Paim: 2
+Procriação: 2
+Saúde Materna: 2
+hotelaria: 2
+Vinhos do Alentejo: 2
+Vitivinicultura: 2
+100 anos: 2
+Revista Science: 2
+visto gold: 2
+MDA: 2
+Afonso Isaías Bapo: 2
+Viva Arte: 2
+Rádio Nacional de Angola: 2
+Francisco George: 2
+Voluntariado: 2
+fadas: 2
+iate: 2
+saramago: 2
+timor-lestes: 2
+Família Eduardo dos Santos: 2
+Yola Semedo: 2
+downloads: 2
+material militar: 2
+luta armada: 2
+marta dos santos: 2
+Nelson Pestana: 2
+economia informal: 2
+produtos não petrolíferos: 2
+Abrahão Gourgel: 2
+câmbios.fronteira: 2
+bilionários: 2
+sem acesso: 2
+brasil advogados: 2
+oab: 2
+desempregro: 2
+informal: 2
+paralela: 2
+índices: 2
+40º aniversário: 2
+desfile: 2
+festividades: 2
+filomeno manaças: 2
+acordos namibe: 2
+adultos: 2
+centro: 2
+pesquisa: 2
+democracias: 2
+especulação: 2
+biodiversidade: 2
+grupo lena: 2
+demografia: 2
+mundial futebol: 2
+nazis: 2
+Angola LNG: 2
+José Patrocínio: 2
+Justin Trudeau: 2
+activistas detidos: 2
+angola. angosat: 2
+safeca: 2
+Aon: 2
+juiz. tpa: 2
+vídeos: 2
+centro camões: 2
+mais rica: 2
+atlântico europa: 2
+artigo: 2
+graça campos: 2
+senado: 2
+biblioteca: 2
+créditos: 2
+bordel: 2
+Kuito Kwanavale: 2
+pulitzer: 2
+diocese: 2
+independêcia: 2
+objectivos do milénio: 2
+eficiência: 2
+nabeiro: 2
+muro: 2
+rda: 2
+crianças. angola: 2
+top: 2
+herói nacional: 2
+apartamentos: 2
+arrendamento: 2
+corrupçãp: 2
+Nazaki: 2
+cavo verde: 2
+Zango II: 2
+desocupação: 2
+entidades reguladoras: 2
+novas moedas: 2
+Angolagate: 2
+intolerância: 2
+patriotas: 2
+intolerância política: 2
+afinidades: 2
+pyongyang: 2
+Ti: 2
+tiac: 2
+construtoras: 2
+clp: 2
+Business Monitor: 2
+angola. crescimento: 2
+helicópteros: 2
+cinemas: 2
+land rover: 2
+regulação: 2
+seul: 2
+emboscada: 2
+crescimentos: 2
+saldo: 2
+cambial: 2
+Arão Bula Tempo: 2
+pré-pago. contadores: 2
+sector: 2
+anúncio: 2
+Swiss Leaks: 2
+eduardo dos santo: 2
+partidarismo: 2
+municípios: 2
+novos hotéis: 2
+casa de cabinda: 2
+associações: 2
+gnr: 2
+psp: 2
+laborinho: 2
+onusida: 2
+vih: 2
+yuan: 2
+arcebispo de luanda: 2
+resistir: 2
+monarca: 2
+cooperação ajuda: 2
+eface: 2
+execesso: 2
+protagonismo: 2
+escolas portuguesas: 2
+rodovias: 2
+portugal. diamantes: 2
+crimes.kopelipa: 2
+objectivos milénio: 2
+fundo global: 2
+Vieira lopes: 2
+Futáfrica: 2
+joralista: 2
+petróeo: 2
+charlie: 2
+greve. fome: 2
+poderes: 2
+boko haram: 2
+hihino carneiiro: 2
+Hiroshima! 70 anos: 2
+mata: 2
+idosos: 2
+Gabriel Mbilingi: 2
+confrontos: 2
+joão Baruba: 2
+politólogo: 2
+importadores: 2
+João Marcelino Typinge: 2
+indisposição: 2
+ipop: 2
+amizade: 2
+semana: 2
+jardins botânicos: 2
+caso luaty: 2
+repórteres sem fronteiras: 2
+activistas angolanos: 2
+parlamento juvenil: 2
+jesus: 2
+cruz neto: 2
+luvas: 2
+liberlândia: 2
+rabelados: 2
+dez mil: 2
+fogos: 2
+habitações: 2
+despacho: 2
+desvalorizção: 2
+científica: 2
+inglês pinto: 2
+repórteres sem fronteira: 2
+grupos: 2
+recreativo do libolo: 2
+recta final: 2
+futebol campeonato: 2
+jornadas: 2
+notação: 2
+toneladas: 2
+estruturas: 2
+fardas: 2
+cica: 2
+deolinda teca: 2
+Gabriel Mbilingui: 2
+Sílvia Viegas: 2
+sonangol lucros: 2
+petróleo. crise: 2
+tribunal provincial: 2
+financiamentos internacionais: 2
+recrutamento: 2
+legislatura: 2
+Paula Teixeira da cruz: 2
+Lei do trabalho: 2
+taxistas: 2
+detitos: 2
+1977: 2
+rapper: 2
+retido: 2
+doadores: 2
+luta. pobreza: 2
+embaixador itinerante: 2
+Bluegate: 2
+barco: 2
+Luremo: 2
+capitalistas: 2
+proletários: 2
+salazar: 2
+estados membros: 2
+tiraria: 2
+mosca tsé-tsé. doença: 2
+cancelamentos: 2
+envio: 2
+NBA: 2
+Yanick Moreira: 2
+Mário david: 2
+eurodeputado: 2
+animais. extinção: 2
+caçadores: 2
+Heritage Foundation: 2
+Wall Street Journal: 2
+farmalog: 2
+Donald Trump: 2
+rangel: 2
+lula: 2
+Beto Van Dúnem: 2
+nacionalistas: 2
+comediantes: 2
+Barack Obama: 2
+golpe de Estado.angola: 2
+José Marcos Mavungo: 2
+mpala: 2
+culpa: 2
+sacar: 2
+rubricas: 2
+Sambalanga: 2
+aeroporto. luau: 2
+peixe podre: 2
+foma: 2
+sinfo: 2
+pânico: 2
+investir: 2
+Donald Heflin: 2
+aia: 2
+josé severino: 2
+resolução: 2
+Pedra Laúca: 2
+Brookings Institution: 2
+segurança nacional: 2
+mercadorias: 2
+atentados. charlie: 2
+novos mercados: 2
+pires de lima: 2
+Fernando casimiro: 2
+contributo: 2
+didinho: 2
+lamentos: 2
+regime jurídico: 2
+ameaças. direito: 2
+Hélder Pita Grós: 2
+obrigações do tesouro: 2
+victor bandarra: 2
+cabazes: 2
+Moda: 2
+Nadir Tati: 2
+comércio. Miguel frasquilho: 2
+cabinda. manifestação: 2
+ordem pública: 2
+Rafael Moracen Limonta: 2
+nova república: 2
+semanário angolense: 2
+lello: 2
+livraria: 2
+Universidade Roma Tre: 2
+rubéola: 2
+títulos: 2
+guiné telecom: 2
+1993: 2
+Economist: 2
+geologia: 2
+fartura: 2
+brasileiros: 2
+clã presidencial: 2
+maianga: 2
+urbanismo: 2
+engenheiros: 2
+sonhos: 2
+Sporting: 2
+investigaçã: 2
+licenças: 2
+minerais: 2
+suspende: 2
+Mostra Internacional de Teatro: 2
+artes: 2
+espectáculos: 2
+lista: 2
+islamistas: 2
+taxas: 2
+Fernando Banze: 2
+Nuno Castel-Branco: 2
+Mariah Carey: 2
+Nicki Minaj: 2
+CDU: 2
+mocidade portuguesa: 2
+slazar: 2
+divulgação: 2
+Matondo José Carlos: 2
+carne: 2
+dólares. abandonados: 2
+cop21: 2
+reabertura: 2
+derrotados: 2
+Johns Hopkins: 2
+Russel-Wood: 2
+angolanização: 2
+currículo: 2
+profissões: 2
+sexta-feira: 2
+Lusovini: 2
+democacia: 2
+2050: 2
+projecção: 2
+isaías samaluva: 2
+arma: 2
+criatividade: 2
+escritas: 2
+Roderick Nehone: 2
+romancista: 2
+cadernos: 2
+regas: 2
+magno domingos: 2
+factos: 2
+agredidos: 2
+tondela: 2
+cmeço: 2
+açúcar: 2
+gestores: 2
+valter filipe: 2
+doutor atum: 2
+triologia: 2
+eduardo dos satos: 2
+colonizados: 2
+ingerências: 2
+crença: 2
+espírito: 2
+existência: 2
+Mary Robinson: 2
+Omar al-Bashir: 2
+retrocessos: 2
+engano: 2
+perpetuação: 2
+manuel arriga: 2
+praça: 2
+fosfatos: 2
+activastas: 2
+detidas: 2
+totalitarismo: 2
+caxipembe: 2
+malte: 2
+atum: 2
+pitrol: 2
+urgente: 2
+mata-bicho: 2
+erudito: 2
+liceu: 2
+samuel: 2
+offshores: 2
+álvaro sorinho: 2
+Nguesso: 2
+remendo: 2
+balsemão: 2
+panama papers.bes. salgado: 2
+crueldade: 2
+comitiva: 2
+cemitérios: 2
+fuzilamentos: 2
+músico: 2
+refinarias: 2
+retenção: 2
+grã-bretanha: 2
+bandarra: 2
+domínios: 2
+especialistas: 2
+melhor: 2
+protexto: 2
+uniformes: 2
+apartheid: 2
+Supremo Tribunal Federal: 2
+primavera árabe: 2
+cremilda de lima: 2
+Faustin Toauderá: 2
+mexicanos: 2
+pretos: 2
+25 de abril: 2
+melo: 2
+estragos: 2
+apagaões: 2
+antónio ribeiro: 2
+lusófonas: 2
+sindicatos: 2
+putos: 2
+estações: 2
+inverno: 2
+outono: 2
+verão: 2
+golpe deestado: 2
+mpla. catanas: 2
+esquadão da morte: 2
+forças de segurança: 2
+esbulhar: 2
+José queirós alves: 2
+canhe: 2
+miseráveis: 2
+falta de vacinas: 2
+José Pedro Tonet: 2
+zé maria: 2
+auditores: 2
+aproximação: 2
+eleitos: 2
+autores: 2
+avante angola: 2
+manuel rui: 2
+show: 2
+humabom: 2
+sonangol negociatas: 2
+compreensão: 2
+gappa: 2
+Kadhafi: 2
+líder carismático: 2
+desespeto: 2
+inagbe: 2
+genocida: 2
+amões: 2
+burrice: 2
+direito internacional: 2
+conversações: 2
+nazita: 2
+UCID: 2
+pts: 2
+cgd: 2
+hipermercado: 2
+gregários: 2
+obesos: 2
+zootécnico: 2
+jonas avimbi: 2
+gildo: 2
+ignrância: 2
+Francisco viena: 2
+cônsul: 2
+rosário ceita: 2
+25 mortos: 2
+kalupeeka: 2
+todos homens: 2
+trocas: 2
+marfim chinês: 2
+Isabel dos santo: 2
+concurso público: 2
+resistência.música: 2
+julgamento. farsa: 2
+esclavagismo: 2
+ximenes belo: 2
+indemnização: 2
+disparates: 2
+luísa damião: 2
+recados: 2
+comunistas: 2
+coração: 2
+indiferença: 2
+riquezes: 2
+baixa de cassange: 2
+versões: 2
+coronel: 2
+pistola: 2
+Lula da Silva: 2
+defex: 2
+secretariado: 2
+2025: 2
+trabakho infantil: 2
+cor: 2
+zero: 2
+bita: 2
+residências: 2
+atletas: 2
+participação: 2
+fábricas. luxo: 2
+populações: 2
+poços: 2
+américo Thomaz: 2
+cambambe: 2
+feitos: 2
+dia 26: 2
+cuito cuanavel: 2
+objectivos: 2
+desalojados. zango: 2
+ilegal: 2
+responsáveis: 2
+bembe: 2
+suicidas: 2
+zonas rurais: 2
+exportaçãp: 2
+cabinda.desvio: 2
+febre-amerela: 2
+agenda: 2
+padres: 2
+estado da nação: 2
+condenção: 2
+diversificar: 2
+cauango: 2
+sem dinheiro: 2
+suspeições: 2
+quimeras: 2
+Sedrick Carvalho: 2
+luvualo: 2
+cabila: 2
+solução: 2
+patrão dos santos: 2
+depoimento: 2
+willia tonet: 2
+antónio fortunado: 2
+deslocação: 2
+conselheiro: 2
+estêvão alberto: 2
+pubreza: 2
+unicef. banco mundial: 2
+direita: 2
+banguela: 2
+engola: 2
+frete: 2
+assistências: 2
+humanitária: 2
+António ferreira: 2
+Rosabeth Miguel: 2
+castelo branco: 2
+rádiop Portugal: 2
+infanti-juvenil: 2
+tabela: 2
+palhaços: 2
+miragem: 2
+estádio: 2
+gerador: 2
+tundavala: 2
+calamidade: 2
+trânsito em julgado: 2
+eugénia neto: 2
+evasão: 2
+normalidade: 2
+trabalhador: 2
+anfíbios: 2
+atlas: 2
+espécies: 2
+jacaré: 2
+répteis: 2
+porpagação: 2
+infecção: 2
+elefate branco: 2
+felino: 2
+treino: 2
+via expresso: 2
+flec. faa: 2
+independêbcia: 2
+guerrilha. combates: 2
+flec/fac. silêncio: 2
+madeireiros: 2
+cabinda. militares: 2
+brasileiro: 2
+recomendar: 2
+ricardo velloso: 2
+Abebe Selassie: 2
+falhanços: 2
+perito: 2
+consultas: 2
+bombeiro: 2
+incendiário: 2
+al-qaida: 2
+bin laden: 2
+bush: 2
+daesh: 2
+cuanza sul: 2
+sobrinhos: 2
+António Manuel Ribeiro: 2
+esgoto: 2
+podridão: 2
+adolfo rasoilo: 2
+luís rasoilo: 2
+gerações: 2
+individualismo: 2
+fmi. angola: 2
+áfrica dosul: 2
+gigantes: 2
+pigmeus: 2
+transparência. paraísos fiscais: 2
+tributação fiscal: 2
+promessas crise: 2
+encontros: 2
+manuel rabelais: 2
+semanais: 2
+graciano domingos: 2
+grandes: 2
+lagos: 2
+pca. intimidação: 2
+incompetência. dos santos: 2
+Bernice Burgos: 2
+decência: 2
+moralidade: 2
+genro: 2
+zé dú. aniversário: 2
+nora: 2
+prédio: 2
+regime CNE: 2
+registo eleiroral: 2
+calma: 2
+correria: 2
+viver: 2
+divina: 2
+electrotécnica: 2
+única: 2
+sonangol-produção: 2
+conferência de imprensa: 2
+zanga: 2
+fortunas: 2
+espanholização: 2
+estupidez: 2
+clã dos Santos: 2
+vitalício: 2
+ditadura. regime: 2
+Miguel Francisco: 2
+caso 15+2: 2
+sentenças: 2
+nzau puna: 2
+kadafi: 2
+vómitos: 2
+28 anos: 2
+poeira: 2
+patacas: 2
+gestão danosa: 2
+Kota Gindungu: 2
+cunhado: 2
+passaporte diplomático: 2
+ana paula: 2
+lunar: 2
+colectânea: 2
+financeira: 2
+The Washington Post: 2
+eua. detidos: 2
+dificuldade: 2
+instintos: 2
+rural: 2
+ecpnomia: 2
+externo: 2
+utap: 2
+Kiesse/Olo: 2
+editora: 2
+verso de kapa: 2
+referendo: 2
+paulo kassoma: 2
+luís nascimento: 2
+250 milhões: 2
+jomo: 2
+primatas: 2
+marginalizado: 2
+humanos: 2
+baixa: 2
+poluição: 2
+onu. secretário-geral: 2
+Eduane Danilo: 2
+móvel: 2
+operadora: 2
+404: 2
+évora: 2
+electrotecnia: 2
+zoologia: 2
+magistrado: 2
+esvaziamento: 2
+fabrico: 2
+fânzeres: 2
+homem: 2
+meirim: 2
+soares novais: 2
+treinador: 2
+2010: 2
+abandonadas: 2
+racionalização: 2
+zee: 2
+Merck: 2
+Praziquantel: 2
+comprimidos: 2
+esquistossomose: 2
+banqueiros: 2
+ulrich: 2
+epidema: 2
+instrutores: 2
+SOS Habitat: 2
+Gomes sambo: 2
+egime: 2
+comunismo: 2
+almeida santos: 2
+maioria absoluta: 2
+Manuel Bissopo: 2
+inimigo: 2
+conciliação: 2
+ortodoxos: 2
+pds: 2
+figurantes: 2
+simulacro: 2
+laico: 2
+partidarização: 2
+Nelson Sahuma: 2
+unita. mpla. trump: 2
+açores: 2
+organizalão: 2
+albinismo: 2
+maldição: 2
+perigos: 2
+largada: 2
+preidente: 2
+cobrança: 2
+dinheiros: 2
+Millennium: 2
+autorização: 2
+privado atlêntico: 2
+falácia: 2
+vencedores: 2
+ampulheta: 2
+fracasso: 2
+1886: 2
+aceias: 2
+críticas regime: 2
+suporlotadas: 2
+recuperar: 2
+figa: 2
+lauro moreira: 2
+adolescentes: 2
+gravidez: 2
+flec/fac. cabinda: 2
+George Chicoty: 2
+ali: 2
+luvyau: 2
+luandino: 2
+reorganização: 2
+dos antos: 2
+mihões: 2
+transparente: 2
+futuro ebooks: 2
+general vietnam: 2
+mais dinheiro: 2
+cartola: 2
+coelho: 2
+filósofo: 2
+mágico: 2
+fictício: 2
+movimentos: 2
+olho: 2
+real: 2
+oito anos: 2
+preventiva: 2
+lulgamento: 2
+flor: 2
+hiena: 2
+leão: 2
+macaco: 2
+palanca: 2
+melro: 2
+cidadão: 2
+mitante: 2
+pensamento: 2
+progaganda: 2
+Oxfam: 2
+doações: 2
+cazengo: 2
+março 2015: 2
+reciclagem: 2
+derramas: 2
+casa-ce. debate: 2
+debilidades: 2
+centralização: 2
+clinton: 2
+bobos: 2
+inoperacionalidade: 2
+afectos: 2
+macacada: 2
+álvaro domingos: 2
+montanha: 2
+espiões: 2
+estupidez. matumbos: 2
+gmai: 2
+fantoches: 2
+lei da rolha: 2
+endinheirados: 2
+morque: 2
+ex-taxista: 2
+explosão: 2
+popular: 2
+Gustave Eiffel: 2
+museu: 2
+palácio: 2
+palavra: 2
+porto editora: 2
+saturação: 2
+faz de conta: 2
+matumbo: 2
+clientelas: 2
+doutores: 2
+intelectuais: 2
+intelectual: 2
+prestígio: 2
+fabricantes: 2
+btanqueamento: 2
+regime. mentiras: 2
+cúmplices: 2
+identificação: 2
+primeira dama: 2
+registo crimonal: 2
+patissa: 2
+favores: 2
+artesnal: 2
+dona: 2
+luanda. isabel dos santos: 2
+petro: 2
+Fundação Bertelsmann: 2
+pilhagem: 2
+aplicação: 2
+estudos: 2
+matemática: 2
+escolar: 2
+propinas: 2
+esposa: 2
+lavandarias: 2
+centros comerciais: 2
+eduardo white: 2
+flad: 2
+vencedor: 2
+dia da criança: 2
+dash: 2
+digital: 2
+kassinga: 2
+corrupçaão: 2
+erro: 2
+pulitzar: 2
+ps.psd: 2
+chissano: 2
+tartarugas: 2
+govermador: 2
+negociata: 2
+causas: 2
+Miroslav Lajcak: 2
+eslováquia: 2
+tirano: 2
+promesses: 2
+seguranças: 2
+álbum: 2
+carismático: 2
+messi: 2
+ronaldo: 2
+vadios: 2
+galinheiro: 2
+raposa: 2
+calueque: 2
+plano nacional: 2
+Recados de cá: 2
+novo disco: 2
+humambo: 2
+incómodo: 2
+queirós alves: 2
+detenção. zango: 2
+coacção: 2
+empregos: 2
+eua. direitos humanos: 2
+portas: 2
+sócrates: 2
+daniel oliveira: 2
+pacheco pereira: 2
+Ekundi Chissolukombe: 2
+juvntude: 2
+radicalismo: 2
+pravd: 2
+rafeiro: 2
+planos: 2
+colheitas: 2
+cobertra: 2
+seguradoras: 2
+sinistros: 2
+censos: 2
+cidades: 2
+divisas kinguilas: 2
+criminalidade. combate: 2
+coragem: 2
+Hillary clinton: 2
+africanos: 2
+kofi annan: 2
+Presidente mdm: 2
+miçambique: 2
+sogro: 2
+Nhany: 2
+el mundo: 2
+instantes: 2
+mudar: 2
+sonangol. dos santos: 2
+baptista sumbe. angola: 2
+incumprimentos: 2
+internacionais: 2
+mercados: 2
+desconfiança: 2
+disparidades: 2
+empresas públicas: 2
+truque: 2
+chitotolo: 2
+desivio: 2
+sumbula: 2
+anonimato: 2
+mediatismo: 2
+recato: 2
+tribunais supremos: 2
+fecho: 2
+maná: 2
+devolução: 2
+aviões parados: 2
+primaveres: 2
+taxis: 2
+Wesa: 2
+entados: 2
+13 anos: 2
+pen.drive: 2
+puto: 2
+oportunidade: 2
+pedro chicaia: 2
+Caholo: 2
+David cameron: 2
+Theresa May: 2
+portugal cplp: 2
+Angoalissar: 2
+Mpindi André: 2
+evaristo carvalho: 2
+hiperinflação: 2
+isbael dos santos: 2
+98%: 2
+alimento: 2
+adalberto costa júnior: 2
+cubal: 2
+um morto: 2
+rosa micolo: 2
+omissão: 2
+sobreposição: 2
+crises: 2
+urbanização: 2
+executivo: 2
+gratuita: 2
+vcina: 2
+Camarões: 2
+brincadeira: 2
+meninos: 2
+organização: 2
+carregamentos: 2
+unita. savimbi: 2
+sinopec: 2
+mpla. ignorância: 2
+heroína: 2
+morro do moco: 2
+condições: 2
+dwáfrica: 2
+rotação: 2
+kakila: 2
+zamba: 2
+bilhetes do tesouro: 2
+consultoria: 2
+elitistas: 2
+tradições: 2
+traições: 2
+clientelismo: 2
+contenção verbal: 2
+monistro: 2
+dúvidas. Odebrecht: 2
+Elina Fraga: 2
+activismo: 2
+higeine: 2
+projecções: 2
+depressão: 2
+prioridade: 2
+maria manuela rocha: 2
+aproveitamento: 2
+ciultura: 2
+Jean-Claude Bastos: 2
+dublin: 2
+telecom: 2
+arrasar: 2
+construir: 2
+sagrada esperança: 2
+algodão: 2
+cassange: 2
+dor: 2
+visões: 2
+vocabulário: 2
+Kilamba Kiaxi: 2
+ingenuidade: 2
+colonizado: 2
+colonizador: 2
+anaso: 2
+arquive-se: 2
+ultimato: 2
+boatos: 2
+especulações: 2
+tratados: 2
+bel neto: 2
+poetisa: 2
+contrafeitos: 2
+remédios: 2
+corão: 2
+espacial: 2
+contacto: 2
+febre-amarela. angola: 2
+António Tomás: 2
+columbia: 2
+memórias: 2
+recordações: 2
+mutindi. governador: 2
+soba: 2
+fidelidade. sipaio: 2
+criação: 2
+imaginação: 2
+sentimentos: 2
+pacatolo: 2
+burguesia: 2
+eleições. anedotas: 2
+andrade mpla: 2
+iko: 2
+lúcio: 2
+viriato: 2
+boçal: 2
+vitinho: 2
+captuta: 2
+espécie: 2
+pescadores: 2
+competência: 2
+pbiang: 2
+anexo: 2
+Goebbels: 2
+ladrões. galinhas: 2
+raposas: 2
+ganância: 2
+máquinas: 2
+Abel Chivukuvuku. mentiras: 2
+facebook: 2
+montagem: 2
+camuflagem: 2
+anhola: 2
+ditatura: 2
+relógio: 2
+banco da china: 2
+sucursal: 2
+burocracias. democracia: 2
+beija-mão: 2
+lugares-comuns: 2
+opsa: 2
+deserção: 2
+Yahya Jammeh: 2
+vilanagem: 2
+prendas: 2
+faa. diáspora: 2
+pluralismo: 2
+pinochet: 2
+assalariados: 2
+chefias: 2
+kopelioa: 2
+verdades. mpla: 2
+bp: 2
+calote: 2
+escolhido: 2
+cooperativas: 2
+sessão: 2
+autocarros: 2
+mobilidade: 2
+invertebrados: 2
+viatura: 2
+fraue: 2
+casa-ce. partido: 2
+joão loirenço: 2
+aceitação: 2
+fraude aos eleitores: 2
+toalha ao chão: 2
+alicerces: 2
+telhado: 2
+cem dias: 2
+anestesistas: 2
+lucrécia paim: 2
+descalabro: 2
+desaceleração: 2
+ocupação. flec-fac: 2
+boicote: 2
+distribuidores: 2
+embalagem: 2
+essencial: 2
+govermo: 2
+aço: 2
+siderurgia: 2
+sucatas: 2
+mpla. escravos: 2
+bolas: 2
+peso: 2
+provisórios: 2
+assembleias: 2
+residência: 2
+sonangol pagamento: 2
+soyo: 2
+danosa: 2
+presidência: 2
+angola. oposição: 2
+competição: 2
+resultado: 2
+adão adriano: 2
+monopólios: 2
+subnutrição: 2
+vistos golf: 2
+nepotismo. dutadura: 2
+entrevista. william tonet: 2
+rdp áfrica: 2
+sincronização: 2
+guiné equatorial. mentiras: 2
+esquecimento: 2
+consulados: 2
+navios: 2
+cupet: 2
+dinossauros: 2
+batlha: 2
+cuito cuanave: 2
+chuva: 2
+desabamentos: 2
+esgotos: 2
+nativos: 2
+assassinatos. regimes: 2
+Deficientes: 2
+esmola: 2
+mendicidade: 2
+mpla. pobreza: 2
+titulares: 2
+processo eleitoral: 2
+dciap. ministério público: 2
+angolanos heróis: 2
+eduardo dos santos. mpla: 2
+nurla: 2
+amigalhaços: 2
+Portmill: 2
+trajecto: 2
+Caculo Cabaça: 2
+busto: 2
+malando: 2
+petróleo. riquezas: 2
+ansiedade: 2
+nepotismo. mordaça: 2
+holdem roberto: 2
+benefícios: 2
+feriado: 2
+mfa: 2
+cumprimentos: 2
+mpla. decano: 2
+greves: 2
+patrões: 2
+acção social: 2
+trabalhadores acusações: 2
+provedor: 2
+ditadpr: 2
+Bloomberg: 2
+bloqueio: 2
+nepotismo.pavor: 2
+Standard Bank: 2
+cac: 2
+leonor figueiredo: 2
+oca: 2
+químicos: 2
+palestinianos: 2
+sérgio piçarra: 2
+história. kauango: 2
+samakuca: 2
+colonização. ajuda: 2
+canino: 2
+idolatria: 2
+seguidismo: 2
+salário: 2
+matross: 2
+estadista. regime: 2
+bastidores: 2
+misérias: 2
+democráticas: 2
+elieções: 2
+livres: 2
+angola. constituição: 2
+Eleazar Van-Dúnen: 2
+arruaceiro: 2
+ofensas: 2
+pmetal: 2
+Cremilda de Lima. Áurio Quicunga: 2
+ecnontro: 2
+literatura infantil: 2
+luanda. lixo: 2
+36 anos: 2
+areia: 2
+isamel martins: 2
+desenrascar. sustento: 2
+reparações: 2
+distância: 2
+quantidade: 2
+mecanização: 2
+incompatível: 2
+esperar: 2
+desabamento: 2
+deterioração: 2
+estádio 11 de novembro: 2
+manutenção: 2
+califórnia: 2
+Angola Cables: 2
+cabo submarino: 2
+ligação: 2
+discriminação: 2
+belmonte: 2
+mpla visita: 2
+messias: 2
+salvador: 2
+desfalque: 2
+José Pedro tonet desculpas: 2
+dino: 2
+fizz: 2
+crónico: 2
+Nacobeta: 2
+artista: 2
+kuduro: 2
+solidariedade. oportunismo: 2
+carteiras: 2
+psquiatria: 2
+sonangol. despedimentos: 2
+slogan: 2
+escolaridade: 2
+planeamento: 2
+poligamia: 2
+eua. trump: 2
+méxico: 2
+bairro neves bendinha: 2
+barulho: 2
+maratona: 2
+tormento: 2
+regressos: 2
+feira: 2
+filsa: 2
+Kulonga: 2
+trienal: 2
+Dsrv: 2
+filomeno: 2
+Cachimbombo: 2
+flec. cabinda: 2
+soldados: 2
+fac: 2
+flec.fac. cabinda: 2
+cabinda. estrangeiros: 2
+mpla sucursal: 2
+doenças negligenciadas: 2
+farmacêuticas: 2
+fragilidades: 2
+magistratura: 2
+vogal: 2
+SINTEJAPGR: 2
+reconversão: 2
+remuneração: 2
+integridade e transparência: 2
+tecnologias: 2
+centralidades: 2
+José Maria: 2
+bruxas: 2
+kikongo: 2
+quimbundo: 2
+umbundo: 2
+duo ouro negro: 2
+glórias: 2
+kurikutelas: 2
+saturnino: 2
+suspensão: 2
+bolt: 2
+turbilhão: 2
+sinprof: 2
+imobiliária: 2
+fidelidade canina: 2
+1995: 2
+cartilha: 2
+lambição: 2
+memorial: 2
+doenças. sangue: 2
+hepatite: 2
+relento: 2
+fora da validade: 2
+hospital do moxico: 2
+utentes: 2
+negligência: 2
+mosaiko: 2
+joãolourenço: 2
+tony neves: 2
+pensar: 2
+imunizar: 2
+previsão: 2
+esbanjar: 2
+ruína: 2
+nos: 2
+nacionais: 2
+Caioporto: 2
+Jean-Claude Bastos de Morais: 2
+vigaristas: 2
+conselhos: 2
+fes: 2
+jlo: 2
+marimbondos: 2
+imagem. desconhecimento: 2
+Pitta Grós: 2
+exonerar: 2
+nomear: 2
+sebem: 2
+abastecimento luanda: 2
+potável: 2
+angomilhões: 2
+facturação: 2
+totobola: 2
+totoloto: 2
+serviço: 2
+carrasco: 2
+juíza: 2
+rejeição: 2
+casa-ce. validade: 2
+juramento: 2
+afirmação: 2
+Kalaf Epalanga. livro. ficção.lisboa: 2
+escritor. músico: 2
+correia do norte: 2
+pol pot: 2
+Kiluanji: 2
+exposições: 2
+metical: 2
+latrina: 2
+porcaria: 2
+símios: 2
+empresária: 2
+provas dadas: 2
+sonangol reacção: 2
+populismo: 2
+imigrante: 2
+exoneração: 2
+igae: 2
+joaquim mande: 2
+moralização: 2
+lavandaria: 2
+bilhetes: 2
+ana paula tavares: 2
+ilustradores: 2
+facturas: 2
+escuridão: 2
+fiscais: 2
+filas: 2
+geradores: 2
+esforços: 2
+luxúria: 2
+garrote: 2
+publicidade: 2
+mundo. eterno: 2
+crianças. unita: 2
+cuango: 2
+acusados: 2
+gigante: 2
+pigmeu: 2
+ambulantes: 2
+clientes: 2
+ginguba: 2
+sustento: 2
+mangueira: 2
+terrosismo: 2
+salvador freire. oao: 2
+matcelo: 2
+bênção: 2
+palhaçada. votação: 2
+ervanárias: 2
+terapias: 2
+rebanho: 2
+sicato: 2
+Jean-Charles Gutner: 2
+fotojornalista: 2
+testemunho: 2
+optimização: 2
+vice-governadores: 2
+mpla. corrupção: 2
+mentir: 2
+victor de carvalho: 2
+conivência: 2
+sic. sinfo: 2
+milhares de mortos: 2
+megalomonia: 2
+travesti: 2
+ângelo: 2
+plano alimentar: 2
+heitor: 2
+moco: 2
+fertilizantes: 2
+Mahamudo Amurane: 2
+azagaia: 2
+heróis. cobardia: 2
+92 anos: 2
+descolonização: 2
+Kiluanji Kia Henda: 2
+mostra: 2
+democratas: 2
+republicanos: 2
+falácias: 2
+eleições. resultados: 2
+apoiantes: 2
+manaças: 2
+mpa: 2
+balbúrdia: 2
+cadernos eleitorais: 2
+prova de vida: 2
+vendedoras: 2
+diabo: 2
+Rohingyas: 2
+birmânia: 2
+2008: 2
+despedida: 2
+presidentes: 2
+1975: 2
+comandos: 2
+soviéticos: 2
+necessitados: 2
+Erdrogam: 2
+colégio turco: 2
+vendedores: 2
+confissões: 2
+desgraças: 2
+Ekuikui IV: 2
+cdeao: 2
+Maniel de oliveira: 2
+oni: 2
+músicas: 2
+poemas: 2
+bornito: 2
+acolhimento: 2
+campos: 2
+Teodorin obiang: 2
+dedicação: 2
+companheira: 2
+delicadeza: 2
+irmã: 2
+mãe: 2
+incimpetência: 2
+mpla. regime: 2
+decretos: 2
+Emílio Odebrecht: 2
+sanitas: 2
+engraxadores: 2
+luvualus: 2
+certezas: 2
+promesas: 2
+exageros: 2
+equidade: 2
+injustiçados: 2
+manobras: 2
+Gobbels: 2
+pólvora: 2
+Januário Domingos: 2
+patologia: 2
+orgia: 2
+Edurado dos santos: 2
+rafaell Marques: 2
+angola. generais: 2
+desenrasca: 2
+parabólicas: 2
+cacimbas: 2
+kitumba: 2
+bandoleiros: 2
+chorar: 2
+jornel de angola: 2
+diagnóstico: 2
+discursos: 2
+exonerações. mpla: 2
+conco: 2
+mpla. eleições. regime: 2
+honorários: 2
+sonangol. salários: 2
+bajução: 2
+falcão: 2
+mpla mesmice: 2
+realidade: 2
+verdades. joão lourenço: 2
+palpites: 2
+credores: 2
+Novo redondo: 2
+sumbe: 2
+prisões.ditador: 2
+fantasias. crise: 2
+fim de ano: 2
+candidaturas: 2
+autoridades: 2
+bonfa: 2
+nvunda tonet: 2
+pau: 2
+recompensa: 2
+tacho: 2
+quinze anos: 2
+exílio: 2
+milhoões: 2
+albertina kassoma: 2
+andebol: 2
+estrela: 2
+desmentidos: 2
+razões: 2
+analfabetos: 2
+pinda simão: 2
+apelos: 2
+consução: 2
+notações: 2
+placebo: 2
+abandonados: 2
+angolanos pobres: 2
+mendigos: 2
+ano novo: 2
+incapacidade: 2
+promessas. demagogias: 2
+anedotas. aldrabices: 2
+desentendimentos: 2
+independentes: 2
+podemos-já: 2
+desaparecido: 2
+espancado: 2
+amiguismo: 2
+descontentamento: 2
+promoções: 2
+espancamentos: 2
+snangol: 2
+camilo ceita: 2
+sef: 2
+aep: 2
+boletins: 2
+tempos de antena: 2
+Pio Wacussanga: 2
+eleições. igreja católica: 2
+pedro sebastião: 2
+15 anos: 2
+humilhação: 2
+concorrentes: 2
+medicamento: 2
+médico: 2
+oncologia: 2
+Abel Chivikuvuku: 2
+simprof: 2
+bairros: 2
+fábricas: 2
+pediatrias: 2
+irmãos: 2
+prostíbulo: 2
+extracção: 2
+riquezas angola: 2
+nepostismo: 2
+paraíso: 2
+anc: 2
+zua: 2
+Renan Inquérito: 2
+província: 2
+segurança social: 2
+temer: 2
+agir: 2
+reagir: 2
+racistas: 2
+cabinda.faa: 2
+empresa pública: 2
+prfessores: 2
+regulamento: 2
+Chikoti: 2
+renda: 2
+restrição: 2
+pinto balsemão: 2
+cimprimento: 2
+lisura: 2
+compadrio: 2
+desânimo: 2
+mpla. degradação: 2
+rabelais: 2
+buracos: 2
+aldeias: 2
+nascimentos: 2
+parteiras: 2
+palancas: 2
+preservação: 2
+obsevadores: 2
+vidro: 2
+Tchavola: 2
+novamente: 2
+um dia: 2
+fome. pobres: 2
+marco. história: 2
+rodrigues mingas: 2
+selecção: 2
+libanês: 2
+mossad: 2
+presiente: 2
+processo-crime: 2
+manue vicente: 2
+disfarce: 2
+ju martins: 2
+análises: 2
+sexo: 2
+fraude cne: 2
+multicaixa: 2
+Sodiam: 2
+dokolo: 2
+multas. regime: 2
+leite: 2
+potencialidades: 2
+texas: 2
+Global Witness: 2
+sonangol mecanismos: 2
+aldrabão: 2
+cuito: 2
+sonangol. sonair: 2
+televisão digital: 2
+faro: 2
+rui rio: 2
+sá carneiro: 2
+feministas: 2
+rectidão: 2
+bbc: 2
+paizinho: 2
+praias: 2
+boçais: 2
+Sílvio Burity: 2
+parecer: 2
+ser: 2
+sério: 2
+fantasmas: 2
+fiscalização: 2
+luemba: 2
+César Paxi: 2
+laúca cambambe: 2
+unauguração: 2
+violação. partidocracia: 2
+Manuel aragão: 2
+separação de poderes: 2
+departamento de estado: 2
+esmolas: 2
+irregularidades. manipulação: 2
+reclamações: 2
+santos: 2
+silva: 2
+burkina faso. votação: 2
+mpla. palhaçada: 2
+tumultos: 2
+inlfação: 2
+ongs: 2
+desfavorecidos: 2
+lentilhas: 2
+tapa: 2
+sakala: 2
+dala: 2
+esclarecimento: 2
+honra: 2
+equidade social: 2
+adalberto: 2
+donativos: 2
+kafunfu: 2
+lunda: 2
+tup: 2
+ameças: 2
+zécutivo: 2
+andedotas: 2
+manuel clemente: 2
+antónio rineiro: 2
+penina: 2
+milhões de pobres: 2
+milionátios: 2
+75 anos: 2
+fraude. manipulação: 2
+consciência: 2
+rádio f8: 2
+declaração: 2
+jurista: 2
+patriota: 2
+eleições.purga: 2
+xeque-mate: 2
+comadres: 2
+suma: 2
+cata-ventos: 2
+engodo: 2
+anual: 2
+matumbez: 2
+tv8: 2
+abertura: 2
+depreciação: 2
+Dixtior: 2
+patceiros: 2
+esquadrão da morte: 2
+estafetas: 2
+velocidade: 2
+exonerações. dos santos: 2
+formalismo: 2
+participações: 2
+estratégias: 2
+planeta: 2
+pnu: 2
+programas: 2
+Mbanza Congo. património: 2
+indústrias: 2
+zaire: 1
+Boeing 777-300ER: 1
+violência doméstica: 1
+Acampamento: 1
+Luanfa: 1
+“merican English Experience: 1
+IILP: 1
+Instituto Internacional da Língua Portuguesa: 1
+afectos com letras: 1
+Administrador Municipal de Viana: 1
+Manuel Mateus Caterça: 1
+Problemas do povo: 1
+air france: 1
+klm: 1
+Paulo Alves: 1
+Transcoura: 1
+liberdade religiosa: 1
+zimbo: 1
+má nutrição: 1
+nanismo: 1
+caso suspeito: 1
+cobrança de impostos: 1
+Anselmo Ralph: 1
+dez anos: 1
+guiné-bissau. jornalistas: 1
+Arktec: 1
+Guilherme Kianiaki: 1
+INE Garcia Neto: 1
+Instituto Normal de Educação Garcia Neto: 1
+Hilberto Ganga: 1
+bancos comerciais: 1
+depósitos: 1
+garantia: 1
+bank of áfrica: 1
+venda ilegal: 1
+ébola. ONU: 1
+arranque: 1
+Bolsas Mandela. Washington Fellowship: 1
+EUA. Angola: 1
+Litis Petróleo Company: 1
+Bosch: 1
+Botsuana: 1
+oleoduto: 1
+rodrigo janot: 1
+extradição: 1
+cabines telefónicas: 1
+Imprensa. Folha8: 1
+missão empresarial: 1
+móveis: 1
+alexandre sebastião andré: 1
+inabe: 1
+Miguel Frasquilho: 1
+Câmara Municipal do Porto: 1
+Fare Network: 1
+Mostra Internacional de Cinema Anti-racista: 1
+Rivoli Teatro Municipal: 1
+SOS Racismo: 1
+Cipro-Group: 1
+menongue: 1
+costa domarfim: 1
+exíli: 1
+muro de berlim: 1
+pesquisa.hidrocarbonetos: 1
+contas públicas: 1
+contracepção: 1
+creches: 1
+crianças desprotegidas: 1
+Monsanto: 1
+transgénicos: 1
+audições: 1
+comissão de inquérito: 1
+mariana mortágua: 1
+Carlos Teixeira. UAN: 1
+direitos humasnos: 1
+pedagogia: 1
+Firmino Tula: 1
+disco: 1
+ErnestoLara Filho: 1
+poeta: 1
+Momade Bachir Sulemane: 1
+Emissões em português: 1
+Voz da Alemanha: 1
+Mali: 1
+antigos combatentes: 1
+Angonabeiro: 1
+Liangol: 1
+desigualdades sociais: 1
+aler: 1
+energias renováveis: 1
+ctt: 1
+semapa: 1
+Narciso Benedito: 1
+escola à distância: 1
+aquicultura: 1
+Luís Vaz Martins: 1
+pesca artesanal: 1
+Empresas portuguesas: 1
+Let's Continue to Give: 1
+Global Terrorism Index: 1
+Estrangeiros expulsos: 1
+general kangamba: 1
+Eugénio Vale Neto: 1
+kim jong-il: 1
+Simone Gbagbo: 1
+julgamento. tpi: 1
+Dalila Mateus: 1
+arguido: 1
+Hospital Neves Bendinha: 1
+queimados: 1
+festafilm: 1
+francofonia: 1
+Reginaldo Silva: 1
+Portugal. candidatos: 1
+Prémio literário Fernando Namora: 1
+Daniel Kablan Duncan: 1
+floresta: 1
+harmonização: 1
+língua bantu: 1
+Raul Domingos: 1
+Nampula: 1
+Beira: 1
+Oferta: 1
+companhia aérea: 1
+casimiro congo.igreja católica: 1
+engenharia informática: 1
+Maria Luís Albuquerque: 1
+Orçamento de Estado: 1
+Francisco Lopes Afonso “Hanga”: 1
+imprensa militar: 1
+situação do país: 1
+Bioenergia: 1
+fraude fiscal: 1
+prisão preventiva: 1
+jpa: 1
+Ana Vidigal: 1
+Jugular: 1
+Cassule: 1
+Kamulingue: 1
+Rafael Marques de Morais: 1
+despejos: 1
+sonip: 1
+garimpeiros: 1
+tortura. diamantes de sangue: 1
+imprensa privada: 1
+Daniel Bekele: 1
+SSN: 1
+Serviço de Segurança Nacional: 1
+Santa Casa da Misericórdia de Lisboa: 1
+lista negra: 1
+albino carlos: 1
+prémio nacional: 1
+congresso luso-africano: 1
+construções metálicas: 1
+oliveira martins: 1
+madeira: 1
+mindelo: 1
+parceiros: 1
+ODM: 1
+Objectivos de Desenvolvimento do Milénio: 1
+grunhido: 1
+Milhões de Angola: 1
+Biaguê Nan Tan: 1
+cinquentenário: 1
+legionella: 1
+tanzânia: 1
+Triton Minerals: 1
+grafite: 1
+mobarquia: 1
+portiugal: 1
+Michael Sata: 1
+Moviflor: 1
+Adolfo Campos: 1
+Movimento Revolucionário: 1
+torturas: 1
+resultados eleitorais: 1
+Camberra: 1
+andré franco de sousa: 1
+kaluanda: 1
+nestlé: 1
+Cantora: 1
+Compositora: 1
+Neusa Linda Sessa: 1
+Neusa Sessa: 1
+josé eduardo: 1
+Statoil: 1
+rio kwanza: 1
+navio: 1
+Incantema: 1
+escola de pescas: 1
+legislativas: 1
+Kalaf Epalanga: 1
+Observatório de direitos humanos: 1
+jornal "o crime": 1
+oge aprovado: 1
+Agência de notícias: 1
+Inforpress: 1
+RTC: 1
+BCV: 1
+Banco de Cabo Verde: 1
+bastonário: 1
+ordem dos advogados: 1
+Fradique de Menezes: 1
+hilbert ganga: 1
+g20: 1
+Bernarda martins: 1
+Manuel Tilman: 1
+Cartão único de cidadão: 1
+Passaporte biométrico: 1
+Voto electrónico: 1
+pme: 1
+António Muhungo: 1
+mulheres empresárias: 1
+polícia federal: 1
+porrada. feridos: 1
+Educa: 1
+Conselho dos Direito Humanoss: 1
+Ministro das Finanças: 1
+Denis Mukwege: 1
+Prémio Sakharov: 1
+Fundação Fé e Cooperação: 1
+Maria Amélia Ferreira: 1
+faculdade de medicina: 1
+gabriel costa: 1
+patrice troviada: 1
+negócio. sangue: 1
+promaica: 1
+Fernando dos Santos Neves: 1
+FDRL: 1
+cimeir: 1
+rebeldesa: 1
+crescomento: 1
+receita: 1
+balanço 2014: 1
+avante: 1
+mabecos: 1
+Repsol: 1
+pré-sal: 1
+reservas monetárias: 1
+Francisco Febrero: 1
+roff: 1
+Amílcar Safeca: 1
+catástrofe: 1
+a bola: 1
+serviços mínimos: 1
+terramoto político: 1
+batuque: 1
+marimba: 1
+puita: 1
+quissanje: 1
+António José Seguro: 1
+Partido Socialista: 1
+azeite: 1
+sovena: 1
+óleo: 1
+Akwá: 1
+tdt: 1
+terrestre: 1
+Juvenal Rodrigues: 1
+TVS: 1
+tentavia de golpe: 1
+funcionários ienternacionais: 1
+Leonel Silva: 1
+gravidas: 1
+somália: 1
+exame: 1
+Dalai Lama: 1
+António Sérgio: 1
+Uivo: 1
+perspectiva: 1
+Combate à desnutrição: 1
+Cáritas: 1
+delegação: 1
+ICCT: 1
+Instituto de Combate e Controlo das Tripanossomíases: 1
+Mosca do sono: 1
+navio kerala: 1
+petróleio: 1
+piratas: 1
+Vietnam: 1
+setúbal: 1
+lusfonia: 1
+comprar: 1
+irmão: 1
+abaixo-assinado: 1
+julgamento adiado: 1
+clínica privada: 1
+perigo de vida: 1
+imprópria: 1
+furos: 1
+450 milhões: 1
+financiar: 1
+manobras dilatórias: 1
+lepra: 1
+alfabetizar: 1
+Alterações climáticas: 1
+investigadores: 1
+ex-rda: 1
+Luís de almeida. ameaças: 1
+amnistia internacional. prisões: 1
+eurodeputada: 1
+bird: 1
+Macolino moco: 1
+França.angola: 1
+judeus: 1
+laicidade: 1
+santa sé: 1
+salmonelas: 1
+bauxite: 1
+biomassa: 1
+postos: 1
+anonymous: 1
+sites: 1
+sumi: 1
+fnla.combatentes: 1
+Francisco Gonçalves Afonso: 1
+cncs: 1
+imbecis: 1
+Cónego: 1
+apolónio: 1
+engana: 1
+mucoso: 1
+facilidades: 1
+Chitembo: 1
+diamantes ilegais: 1
+faminto: 1
+bajulação. eduardo dos santos: 1
+aduaneiros: 1
+ramalho eanes: 1
+acordos de paz: 1
+chocolate: 1
+Imogestim: 1
+funcionários públicos: 1
+privilégios: 1
+voa: 1
+bes. besa: 1
+bolsa: 1
+loução: 1
+boletim oficia: 1
+boeing: 1
+The New York Times: 1
+cabinda. adriano moreira: 1
+acordos de alvor: 1
+direitos humsnos: 1
+timor: 1
+mortalidade materna: 1
+falta de condições: 1
+queimadas: 1
+vias: 1
+cartão: 1
+multibanco: 1
+uso: 1
+Luís Cília: 1
+Pilar del Río: 1
+manuel freire: 1
+sérgio godinho: 1
+limites: 1
+produtos básicos: 1
+voluntários: 1
+Kinaxixi: 1
+centro comercial: 1
+Catalunha: 1
+cartas de condução: 1
+coincidência: 1
+conspiração: 1
+faltas: 1
+marginais: 1
+desmnagem: 1
+mpla. prisão: 1
+sonau: 1
+convocação: 1
+petróleo. exportação: 1
+parteiras. maternidades: 1
+bens alimentares: 1
+Miguel Diaz-Canel Bermúdez: 1
+dados: 1
+gestão ruinosa: 1
+Eugénio Manuvakola: 1
+regime. casa-ce: 1
+iscte: 1
+fronteiras: 1
+justino pinto de andrade: 1
+tolerância: 1
+lapidação: 1
+kinguilas: 1
+pev: 1
+atenção: 1
+exportações portuguesas: 1
+127 anos: 1
+caminhos de ferro de luanda: 1
+Herman Cohen: 1
+símbolos nacionais: 1
+Vigílio Tyova: 1
+"encruzilhada": 1
+Kizomba: 1
+Zaza The Pi: 1
+single: 1
+hotéis: 1
+Lopo do nascimento: 1
+passaportes: 1
+Mikko Pyhälä: 1
+pensadores: 1
+encíclicas: 1
+cidade mais cara: 1
+aromas: 1
+equivalenza: 1
+perfumes: 1
+indultos: 1
+Hélder Bataglia: 1
+escravidão: 1
+materno-infantil: 1
+missa: 1
+filho do primeiro-ministro: 1
+colonialistas: 1
+José de Queirós Alves: 1
+arcebismo do huambo: 1
+Le monde: 1
+eusébio: 1
+panteão: 1
+general disciplina: 1
+acesso: 1
+exames: 1
+exercício: 1
+marinha de guerra: 1
+histórica: 1
+mpla polícia: 1
+contabilistas: 1
+CISA: 1
+artesanal: 1
+Ferryboat: 1
+flec/fac. ex-militares: 1
+Fly 540: 1
+edição: 1
+Governador do bna. ex-ministro: 1
+novas prisões: 1
+aves: 1
+gripe: 1
+guebuza.liberdade: 1
+inflação. alta: 1
+François Hollande: 1
+arquidiocese: 1
+matrosse: 1
+reviste time: 1
+BCP CaixaBank: 1
+200 milhões: 1
+Novo parlamento: 1
+funcionalidade: 1
+jornalistas "ausentes": 1
+fantochadas: 1
+chima: 1
+lac: 1
+lucas pedro: 1
+manuel vieira: 1
+isolamento: 1
+francisco luemba. cabinda: 1
+FIDH: 1
+libertados: 1
+francisco viti: 1
+ligações: 1
+reconstrução: 1
+feup: 1
+up: 1
+Lucas Ngonda: 1
+Kiambata: 1
+professora: 1
+passaporte electrónico: 1
+ornalistas: 1
+Veículo Nahary: 1
+galardão: 1
+analfabetismo: 1
+diminuição: 1
+caála: 1
+diarreia: 1
+êxodo: 1
+Luís Campos Ferreira: 1
+históricas: 1
+tiradas: 1
+Srebrenica: 1
+massacres- Srebrenica-luanda-1977- 27 de maio: 1
+Kit Diagnóstico Médico Móvel: 1
+plantação: 1
+árvores: 1
+mensalão: 1
+Manuel Augusto: 1
+gregos: 1
+merkel: 1
+Nem Cognito: 1
+mercado laboral: 1
+manuel josé: 1
+ministério: 1
+ISGEST: 1
+ano lectivo: 1
+provatização: 1
+Paladin: 1
+molhos: 1
+mpda: 1
+oportunidade perdida: 1
+Alcides Sakala.unita: 1
+imperador: 1
+setembro: 1
+roupa usada: 1
+Estatuto Editorial: 1
+código: 1
+deontologia: 1
+cova da moura: 1
+Pai natal: 1
+banqueiro: 1
+talibã: 1
+Answer África: 1
+pior de áfrica: 1
+terrorista: 1
+novos: 1
+caravana: 1
+obsessão: 1
+Lukamba-gato-angola-grécia-china: 1
+fosso: 1
+apertar: 1
+Oncocercose: 1
+cegueira: 1
+Filipe Jacinto Nyusi: 1
+joséribeiro: 1
+Botswuana: 1
+Okavango: 1
+Zambeze: 1
+Profetiza: 1
+corruptos: 1
+czares: 1
+ditadores. áfrica: 1
+anadota: 1
+comédia: 1
+obama. eduardo dos santos: 1
+anedotário: 1
+fidelidade: 1
+Bruce G: 1
+mpla. eduardo dos santos: 1
+pauta aduaneira: 1
+activistas presos: 1
+Falcon Oil: 1
+Crisis Group: 1
+Paula Roque: 1
+crise social: 1
+angola. família: 1
+“Kupapata”. lubango: 1
+peões: 1
+flime: 1
+pocas pascoal: 1
+realizadora: 1
+turistas: 1
+debandada: 1
+jorge abreu: 1
+grande entrevista: 1
+Joseph Kabila: 1
+segurança regional: 1
+provas forjadas: 1
+limpeza étnica: 1
+joão moita: 1
+José Gomes Hata: 1
+líquidas: 1
+fan: 1
+helicóptero: 1
+saurimo: 1
+lusófonos: 1
+bricomil: 1
+univerdades: 1
+sacerdote: 1
+regedor: 1
+cortes despesas: 1
+filomeno vieira lopes: 1
+raiografia: 1
+lixívia: 1
+rui machete. onu: 1
+aurélio cunha: 1
+jn: 1
+requiem: 1
+biografia: 1
+filipe fernandes: 1
+salas: 1
+prospecções: 1
+adelino de almeida: 1
+refeições: 1
+descida: 1
+subida: 1
+publicação: 1
+Michel Cahen: 1
+historiador: 1
+regme: 1
+falência. regime: 1
+ruptura: 1
+prospecção: 1
+concordóia: 1
+general numa: 1
+Samuel Chiwale: 1
+telefone: 1
+caros: 1
+humanismo: 1
+novo ano: 1
+quotas: 1
+militante: 1
+Angel Carrilo: 1
+cidade do Porto: 1
+arlindo furtado: 1
+cardeal: 1
+unicer: 1
+Kulamosso: 1
+Sapú II: 1
+Ericsson. tecnologia: 1
+cardeais: 1
+Pároco: 1
+mina: 1
+transferências: 1
+duplicar: 1
+anedodas: 1
+complecos: 1
+hugo chávez: 1
+verbal: 1
+revoltas: 1
+falsidades: 1
+ofertas: 1
+alertas: 1
+Indonésia: 1
+interpol. china: 1
+escutas: 1
+espionagem: 1
+chamadas: 1
+operadores: 1
+14 anos: 1
+celebrações: 1
+arruaceiros: 1
+crónicas: 1
+independência. 41 anos: 1
+mpla. bajulação: 1
+sumptuosidade: 1
+Martin Luther King: 1
+bons: 1
+angoa: 1
+economia. crescimento: 1
+sonangol isabel: 1
+contaste: 1
+tibete: 1
+preocupação: 1
+saudação: 1
+cronistas: 1
+crónica: 1
+texto: 1
+dago: 1
+casa-ce. trabalhos: 1
+fotos: 1
+ccrítica: 1
+motoristas: 1
+despejo idoso: 1
+um ano: 1
+migrantes: 1
+hierarquia: 1
+marionete: 1
+comodismo: 1
+guerra. regime: 1
+nercado negro: 1
+Quintino Candange: 1
+padre: 1
+albino: 1
+curandeiros: 1
+magias: 1
+preconceitos: 1
+órgão: 1
+sonangol. isabel dos antos: 1
+cargo: 1
+arrogantes: 1
+infelizes: 1
+oco: 1
+pretensioso: 1
+ditadura.luta: 1
+tribubnal: 1
+manufestação: 1
+miopia: 1
+esgotadas: 1
+febre-amerala. vacinas: 1
+ibéria: 1
+notificações: 1
+barbaridade: 1
+general Paka: 1
+recomendação: 1
+Suninvest: 1
+angomédica: 1
+ministro interior: 1
+regie: 1
+desafio: 1
+casa dos rapazes: 1
+norton de matos: 1
+vicentes ferreira: 1
+adão adriano antónio: 1
+vice-pgr: 1
+regime.bens: 1
+Elias xavier: 1
+despertar: 1
+suicídio: 1
+direitos humanos amizade: 1
+julgamento regime: 1
+casa-ce. cabinda: 1
+ketchup: 1
+tomate: 1
+Kussumua: 1
+pescar: 1
+Jean Claude Nzita: 1
+actuação: 1
+espectéculo: 1
+barris: 1
+petróleo. gás: 1
+apoiop: 1
+cdm: 1
+coligação democrática de mudança: 1
+maquiavel: 1
+farsas: 1
+saída. 2018: 1
+união dos escritores: 1
+veiga tavares: 1
+congresso petróleo: 1
+economia. bob geldof: 1
+fundador: 1
+nacionalista: 1
+aliciamento: 1
+divir: 1
+novos partidos: 1
+reinar: 1
+alcoolismo: 1
+incentivo: 1
+comité central angola: 1
+adversários: 1
+nacionalismo: 1
+edital: 1
+notificação: 1
+testemunha: 1
+parlamentos: 1
+novo partido: 1
+seguidores: 1
+27 maio: 1
+filha: 1
+brandy: 1
+revolucionários: 1
+zémaria: 1
+apodrecer: 1
+rpisões: 1
+Aline: 1
+morosidade: 1
+ingerência: 1
+fretes: 1
+ignorência: 1
+Wacussanga: 1
+Bendito Jeremias Dali: 1
+humanitário: 1
+legitimidade: 1
+autocarro: 1
+realojamento: 1
+casa-ce. palestras: 1
+nova aurora: 1
+Alexandre Garbuze: 1
+engenharia: 1
+professor: 1
+ucraniano: 1
+direitos huanos: 1
+caboxa: 1
+sobrelotação: 1
+maquilhagem: 1
+açaimo: 1
+recado: 1
+fascistas: 1
+julgamentp: 1
+leis coloniais: 1
+manoel de olivieira: 1
+aparência: 1
+conteúdos: 1
+áfria: 1
+Angola | Rui Moreira ou a ignorância lusa: 1
+postura: 1
+darfur: 1
+genocídios: 1
+pwC: 1
+sarju: 1
+82 anos: 1
+mulatos: 1
+direito de resposta. Aon angola: 1
+Otawa: 1
+convenção: 1
+prazo: 1
+prorrogação: 1
+correios: 1
+território: 1
+toponia: 1
+Lundas: 1
+gráfica: 1
+medianova: 1
+três milhões: 1
+luandina: 1
+sagres: 1
+santa: 1
+aparelhos: 1
+brincar: 1
+desentendimento: 1
+secretário executivo: 1
+hienas: 1
+poleiro: 1
++adres: 1
+funcionário púbico: 1
+recadastramento: 1
+atrasos. dívidas: 1
+fantasmas. roubos: 1
+pensões: 1
+imprensa nacional: 1
+sinfic. mpla: 1
+lanternas: 1
+LUNAAR: 1
+formandos: 1
+"santismo: 1
+electrividade: 1
+lindo bernardo tito: 1
+oração: 1
+divisão: 1
+estatutos: 1
+ngonda: 1
+figuras 2016: 1
+opiniões: 1
+convites: 1
+francisca Vam Dúnem: 1
+decadência: 1
+dissidente: 1
+cegos: 1
+mudos: 1
+surdos: 1
+chicago: 1
+comboio: 1
+mpla. gozo: 1
+foa: 1
+ricardo salgo: 1
+ficheiro: 1
