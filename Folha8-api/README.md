@@ -65,4 +65,5 @@ Fora da função é invocado contagemPublicacoes cujo primeiro argumento é o te
 ### 5.2 Qual o TOP10 dos dias com mais notícias?
 
 O código é quase igual ao anterior, excepto que a função foi nomeada por top10 e após o loop para cada data_pub em datas_pub é a seguir calculado o top_10 através da função sorted().No final da linha é adicionado [:10] para só serem apresentados os 10 primeiros resultados. Ao remover essa lista seria calculada a totalidade do dicionário contagem_datas.
-No final do código, é feita a impressão para um txt chamado top10.txt. Na primeira linha é impresso: "Top 10 dos dias com mais publicações:\n e nas linhas seguintes é impressa através de uma f string as datas, seguidas da contagem.
+No final do código, é feita a impressão para um txt chamado top10.txt. Na primeira linha é impresso: "Top 10 dos dias com mais publicações:\n e nas linhas seguintes são impressas, através de uma f string, as datas, seguidas da contagem.
+
